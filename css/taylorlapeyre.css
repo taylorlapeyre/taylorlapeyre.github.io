@@ -140,9 +140,10 @@ footer {
   font-size: .9em;
 }
 
-footer p { color: #EEE !important; }
-
-footer a { color: #FFF !important; }
+footer p, a {
+  text-shadow: 0px 1px 2px #111;
+  color: #555;
+}
 
 footer a:hover { color: #EEE }
 
