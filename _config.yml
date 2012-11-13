@@ -1,5 +1,5 @@
 pygments: true
 baseurl: /
-permalink: /:year/:month/:title.html
+permalink: /:year/:month/:title
 source: .
 destination: ./_site
