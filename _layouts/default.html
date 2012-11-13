@@ -17,21 +17,23 @@
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   </head>
   <body>
-    <header>
-      <h1><a href="{{ site.baseurl }}">taylor lapeyre</a></h1>
-      <p>
-        <a href="{{ site.baseurl }}about"><i class="ss-icon">info</i></a>
-        <a href="//github.com/taylorlapeyre"><i class="ss-icon ss-social-circle">github</i></a>
-        <a href="//twitter.com/tayorlapeyyre"><i class="ss-icon ss-social-circle">twitter</i></a>
-      </p>
-    </header>
-    <div id="main">
-      {{ content }}
-    </div>
-    <footer>
-      <p>My name is Taylor Lapeyre. I'm a web developer and designer from New Orleans, LA.</p>
-      <p>The typefaces used for this website are <a href="https://typekit.com/fonts/minion-pro">Minion Pro</a> and <a href="https://typekit.com/fonts/brandon-grotesque">Brandon Grotesque</a>.</p>
-    </footer>
+    <div id="wrapper">
+      <header>
+        <h1><a href="{{ site.baseurl }}">taylor lapeyre</a></h1>
+        <p>
+          <a href="{{ site.baseurl }}about"><i class="ss-icon">info</i></a>
+          <a href="//github.com/taylorlapeyre"><i class="ss-icon ss-social-circle">github</i></a>
+          <a href="//twitter.com/tayorlapeyyre"><i class="ss-icon ss-social-circle">twitter</i></a>
+        </p>
+      </header>
+      <div id="main">
+        {{ content }}
+      </div>
+      <footer>
+        <p>My name is Taylor Lapeyre. I'm a web developer and designer from New Orleans, LA.</p>
+        <p>The typefaces used for this website are <a href="https://typekit.com/fonts/minion-pro">Minion Pro</a> and <a href="https://typekit.com/fonts/brandon-grotesque">Brandon Grotesque</a>.</p>
+      </footer>
+    </wrapper>
     <script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>

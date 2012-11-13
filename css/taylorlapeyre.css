@@ -1,5 +1,23 @@
 @import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
 
+/* Sticky Footer */
+
+html, body { height: 100%; }
+
+#wrapper {
+  height: 100%;
+  margin: 0 0 -130px 0;
+  position: relative;
+}
+
+footer {
+  position: relative;
+  height: 130px;
+  padding-top: 10px;
+}
+
+/* /Sticky Footer */
+
 body, h1 { margin: 0; padding: 0; }
 
 header {
@@ -117,8 +135,6 @@ footer {
   box-shadow: inset #222 1px 3px 7px 1px;
   background: #333;
   font-size: .9em;
-  padding-top: 10px;
-  height: 120px;
 }
 
 footer p { color: #EEE !important; }
