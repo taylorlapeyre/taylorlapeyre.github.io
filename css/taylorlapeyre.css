@@ -2,17 +2,20 @@
 
 /* Sticky Footer */
 
-html, body { height: 100%; }
+html, body, #wrapper { height: 100%; }
 
-#wrapper {
-  height: 100%;
-  margin: 0 0 -130px 0;
-  position: relative;
+body > #wrapper {
+  height: auto;
+  min-height: 100%;
 }
+
+#main { padding-bottom: 130px; }
 
 footer {
   position: relative;
-  height: 130px;
+  margin-top: 130px;
+  height: 120px;
+  clear: both;
   padding-top: 10px;
 }
 
