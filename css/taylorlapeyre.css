@@ -114,6 +114,7 @@ article h2 {
 footer {
   -webkit-font-smoothing: antialiased;
   -webkit-box-shadow: inset #222 1px 3px 7px 1px;
+  box-shadow: inset #222 1px 3px 7px 1px;
   background: #333;
   font-size: .9em;
   padding-top: 10px;
