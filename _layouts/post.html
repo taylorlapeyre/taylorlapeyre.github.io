@@ -2,8 +2,20 @@
 layout: default
 ---
 
+<div style="text-align: center; cursor: pointer">
+  <span id="small-text" class="ss-icon" style="font-size: .8em">font</span>
+  <span id="med-text" class="ss-icon" style="font-size: 1em">font</span>
+  <span id="large-text" class="ss-icon" style="font-size: 1.2em">font</span>
+</div>
 <article>
   <h2>{{ page.title }}</h2>
   <date>{{ page.date | date_to_string }}</date>
   {{ content }}
 </article>
+
+<script src="//code.jquery.com/jquery-1.8.2.min.js"></script>
+<script>
+  $('#small-text').click(function() {
+    $('p').css("font-size", "1em");
+  )};
+</script>
