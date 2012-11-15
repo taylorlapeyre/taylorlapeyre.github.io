@@ -122,8 +122,7 @@ pre {
 }
 
 code {
-  border: 2px solid #EEE;
-  overflow: scroll;
+  border: 1px solid #EEE;
 }
 
 article h2 {
