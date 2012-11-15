@@ -17,7 +17,13 @@ layout: default
 <script>
   $(document).ready(function() {
     $('#small-text').click(function() {
-      $('p').css("font-size", "1em");
+      $('article p').css("font-size", "1em");
+    });
+    $('#med-text').click(function() {
+      $('article p').css("font-size", "1.25em");
+    });
+    $('#large-text').click(function() {
+      $('article p').css("font-size", "1.5em");
     });
   });
 </script>
