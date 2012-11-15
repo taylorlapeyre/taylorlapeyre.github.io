@@ -30,6 +30,10 @@ header {
 
 header p i { padding: 0 5px; }
 
+#fonts { text-align: center; }
+
+#fonts span { cursor: pointer; }
+
 #main {
   width: 60%;
   margin: 0 auto;
