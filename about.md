@@ -9,6 +9,8 @@ I’m also a student at Louisiana State University and a unix and typography ent
 
 If you would like to contact me, send me an email or shout at me on twitter.
 
+<br>
+
 ### Colophon
 
 This website uses [typekit](https://typekit.com/) for its typography,  [symbolset](https://symbolset.com/) for its icons, and [jekyll](http://jekyllrb.com/) to generate itself.
@@ -16,3 +18,8 @@ This website uses [typekit](https://typekit.com/) for its typography,  [symbolse
 I made this website using [Sublime Text 2](http://www.sublimetext.com/) on a Macbook Pro, and I use [iA Writer](http://www.iawriter.com/) to write blog posts.
 
 You can find the source code for this website [here](https://github.com/taylorlapeyre/taylorlapeyre.me).
+
+
+<br><br>
+
+![Me]({{ site.baseurl }}profile.png)
