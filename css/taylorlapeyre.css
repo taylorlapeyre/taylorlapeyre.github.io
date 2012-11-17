@@ -53,6 +53,11 @@ article date {
   text-align: center;
 }
 
+article.page img {
+  height: 420px;
+  width: 420px;
+}
+
 article h2, article h3, page, footer { text-align: center; }
 
 /* Typography */
