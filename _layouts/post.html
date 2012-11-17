@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div id="fonts"> 
-  <span id="small-text" class="ss-icon" style="font-size: .8em">font</span>
-  <span id="med-text" class="ss-icon" style="font-size: 1em">font</span>
-  <span id="large-text" class="ss-icon" style="font-size: 1.2em">font</span>
-</div>
 <article>
   <h2>{{ page.title }}</h2>
+  <div id="fonts"> 
+    <span id="small-text" class="ss-icon" style="font-size: .8em">font</span>
+    <span id="med-text" class="ss-icon" style="font-size: 1em">font</span>
+    <span id="large-text" class="ss-icon" style="font-size: 1.2em">font</span>
+  </div>
   <date>{{ page.date | date_to_string }}</date>
   {{ content }}
 </article>
