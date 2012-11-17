@@ -15,4 +15,4 @@ This website uses [typekit](https://typekit.com/) for its typography,  [symbolse
 
 I made this website using [Sublime Text 2](http://www.sublimetext.com/) on a Macbook Pro, and I use [iA Writer](http://www.iawriter.com/) to write blog posts.
 
-
+You can find the source code for this website [here](https://github.com/taylorlapeyre/taylorlapeyre.me).
