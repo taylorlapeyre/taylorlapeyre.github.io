@@ -20,6 +20,6 @@ I made this website using [Sublime Text 2](http://www.sublimetext.com/) on a Mac
 You can find the source code for this website [here](https://github.com/taylorlapeyre/taylorlapeyre.me).
 
 
-<br><br>
+<br>
 
 ![Me]({{ site.baseurl }}profile.png)
