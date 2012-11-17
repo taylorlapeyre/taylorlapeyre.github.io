@@ -53,7 +53,7 @@ article date {
   text-align: center;
 }
 
-article h2, .page p, footer { text-align: center; }
+article h2, article h3,.page p, footer { text-align: center; }
 
 /* Typography */
 
