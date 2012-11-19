@@ -1,1 +1,1 @@
-echo "web:  jekyll --server $PORT"
+web:  jekyll --server $PORT
