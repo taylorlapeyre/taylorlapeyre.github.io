@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I’m a web developer and designer from New Orleans, LA. I enjoy making websites and applications that make people’s lives easier and simpler.
+I’m a software designer from New Orleans, LA. I enjoy making websites and applications that make people’s lives easier and simpler.
 
 I’m also a student at Louisiana State University and a unix and typography enthusiast.
 
