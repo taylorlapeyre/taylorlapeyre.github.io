@@ -22,4 +22,4 @@ You can find the source code for this website [here](https://github.com/taylorla
 
 <br>
 
-![Me]({{ site.baseurl }}profile.png)
+![Me]({{ site.baseurl }}images/profile.png)
