@@ -15,7 +15,7 @@ I like many things. Some of these things include...
 * Flying stunt kites
 * Books about interesting things
 
-If you would like to contact me, send me an email or shout at me on twitter.
+If you would like to contact me, send me an [email](mailto:taylorlapeyre@gmail.com) or shout at me on [twitter](http://twitter.com/taylorlapeyre).
 
 <br>
 
