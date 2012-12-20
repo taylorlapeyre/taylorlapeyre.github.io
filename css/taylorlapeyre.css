@@ -29,6 +29,8 @@ header {
   height: 200px;
   background: url(/images/header.png);
   background-repeat: no-repeat;
+  -webkit-box-shadow: inset #222 0px 0px 7px 0px;
+  box-shadow: inset #222 0px 0px 7px 0px;
   text-align: center;
   margin-bottom: 50px;
   color: #000;
