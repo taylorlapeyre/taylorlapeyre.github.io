@@ -7,6 +7,14 @@ I’m a software designer from New Orleans, LA. I enjoy making websites and appl
 
 I’m also a student at Louisiana State University and a unix and typography enthusiast.
 
+I like many things. Some of these things include...
+
+* Programming
+* Coffee & Tea
+* Playing jazz guitar
+* Flying stunt kites
+* Books about interesting things
+
 If you would like to contact me, send me an email or shout at me on twitter.
 
 <br>

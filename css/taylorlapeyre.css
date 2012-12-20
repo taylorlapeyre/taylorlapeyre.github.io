@@ -66,6 +66,12 @@ article.page img {
   width: 420px;
 }
 
+article.page ul {
+  font-size: 1.2em;
+  text-align: left;
+  padding-left: 30%;
+}
+
 article h2, article h3, .page, footer { text-align: center; }
 
 /* Typography */
