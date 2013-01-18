@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jumping In
-date: 2013-18-01
+date: 2013-01-18
 ---
 
 I've very recently gotten involved in a lot of projects that have challenged me to learn a whole lot of new material very quickly. Before very recently, the exetent of my web development experience was simple (albeit modern) HTML and CSS, along with some knowledge about working with various CMSs.
