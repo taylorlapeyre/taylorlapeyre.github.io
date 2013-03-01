@@ -1,12 +1,10 @@
-@import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
-
 body {
   background-color: #40626e;
   color: #DDD;
   margin: 0 auto;
   padding-top: 10%;
 
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
   font-size: 100%;
   line-height: 1.4em;
   font-weight: 100;
@@ -122,3 +120,5 @@ code {
   padding: 4px;
   border-radius: 5px;
 }
+
+@import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
