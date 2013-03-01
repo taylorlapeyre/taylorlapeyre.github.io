@@ -47,6 +47,8 @@ a:hover {
   opacity:0.9;
   filter:alpha(opacity=90); /* For IE8 and earlier */
   max-width: 100%;
+  box-shadow: 1px 1px 5px #333;
+  border-radius: 5px;
 }
 
 /* Small Displays */
