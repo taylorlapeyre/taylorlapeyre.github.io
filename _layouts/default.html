@@ -1,43 +1,22 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="description" content="Taylor Lapeyre's Website">
-    <meta name="author" content="Taylor Lapeyre">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.title == 'Home' %}
-    <title>taylor lapeyre</title>
+    <title>Taylor Lapeyre</title>
     {% else %}
     <title>{{ page.title }}</title>
     {% endif %}
-    <link rel="stylesheet" href="{{ site.baseurl }}css/taylorlapeyre.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}webfonts/ss-social.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}webfonts/ss-standard.css">
-    <script type="text/javascript" src="//use.typekit.net/ors7wuw.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
   </head>
+
   <body>
-    <div id="wrapper">
-      <header>
-        <h1><a href="{{ site.baseurl }}">taylor lapeyre</a></h1>
-        <p>
-          <a href="{{ site.baseurl }}about.html"><i class="ss-icon">info</i></a>
-          <a href="//github.com/taylorlapeyre"><i class="ss-icon ss-social-circle">github</i></a>
-          <a href="//twitter.com/taylorlapeyre"><i class="ss-icon ss-social-circle">twitter</i></a>
-        </p>
-      </header>
-      <div id="main">
-        {{ content }}
-      </div>
-    </div>
-    <footer>
-      <p>My name is Taylor Lapeyre. I'm a software designer from New Orleans, LA.</p>
-      <p>The typefaces used for this website are <a href="https://typekit.com/fonts/adobe-garamond-pro">Garamond Pro</a> and <a href="https://typekit.com/fonts/brandon-grotesque">Brandon Grotesque</a>.</p>
-    </footer>
-    <script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="{{ site.baseurl }}webfonts/ss-standard.js"></script>
-    <script src="{{ site.baseurl }}webfonts/ss-social.js"></script>
+    <header class="main">
+      <h2 class="name">Taylor Lapeyre</h2>
+    </header>
+    {{ content }}
+
     {% include tracking.html %}
   </body>
 </html>

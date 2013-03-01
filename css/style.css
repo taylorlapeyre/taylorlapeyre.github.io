@@ -1,0 +1,122 @@
+@import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
+
+body {
+  background-color: #40626e;
+  color: #DDD;
+  margin: 0 auto;
+  padding-top: 10%;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  line-height: 1.4em;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  padding: 5px 0;
+}
+
+a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.main {
+  width: 35%;
+  margin-left: 10%;
+}
+
+.name {
+  font-size: 2em;
+  font-weight: 100;
+  color: #DDD;
+  margin-bottom: 50px;
+}
+
+.profile {
+  float: right;
+  position: relative;
+  left: -50px;
+  -webkit-filter: grayscale(40%);
+  opacity:0.9;
+  filter:alpha(opacity=90); /* For IE8 and earlier */
+  max-width: 100%;
+}
+
+/* Small Displays */
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+
+  figure img {
+    display: none;
+  }
+
+  .main {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .writings ul li p {
+    font-size: .7em;
+    line-height: 1.25em;
+    width: 90%;
+  }
+
+  .story {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+}
+
+.writings {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.writings ul {
+  list-style: none;
+  /*padding-left: 10% !important;*/
+}
+
+.writings ul li {
+  padding: 10px 0;
+  font-size: 1.1em;
+}
+
+.writings ul li p {
+  font-size: .7em;
+  line-height: 1.25em;
+  width: 70%;
+}
+
+.story {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.story h3 {
+  font-weight: 100;
+  font-size: 1.2em !important;
+  border-bottom: 1px solid #DDD;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+}
+
+date {
+  font-size: .7em;
+}
+
+code {
+  font-weight: 100;
+  font-family: "Consolas", "Menlo", monospace;
+  font-size: .9em;
+  background-color: #5b6f75;
+  padding: 4px;
+  border-radius: 5px;
+}

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: story
 title: Jumping In
 date: 2013-01-18
 ---
 
-I've very recently gotten involved in a lot of projects that have challenged me to learn a whole lot of new material very quickly. Before very recently, the exetent of my web development experience was simple (albeit modern) HTML and CSS, along with some knowledge about working with various CMSs.
+I've very recently gotten involved in a lot of projects that have challenged me to learn a whole lot of new material very quickly. Before last year, the exetent of my web development experience was simple (albeit modern) HTML and CSS, along with some knowledge about working with various CMSs.
 
-I actually really enjoyed making things on the web using those tools, but I never really pushed myself to do something challenging. My comfort zone was extremely well defined, and most of what I was doing was kind of plain.
+I actually really enjoyed making things on the web using those tools, but I never really pushed myself to do something particurally challenging. My comfort zone was extremely well defined, and most of what I was doing was kind of plain.
 
 Of course, I had some some *actual* programming in the past - mainly with Ruby, Java, and some other more obscure languages. Once again - very much within my comfort zone. However, recently I jumped into a project that was very different from the other stuff that I had been making. PHP, MVC frameworks, *actually writing useful code*? It was a challenge to learn all of these things.
 
