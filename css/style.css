@@ -1,6 +1,6 @@
 body {
   background-color: #40626e;
-  color: #DDD;
+  color: #b8c3c9;
   margin: 0 auto;
   padding-top: 10%;
 
@@ -33,7 +33,6 @@ a:hover {
 .name {
   font-size: 2em;
   font-weight: 100;
-  color: #DDD;
   margin-bottom: 50px;
 }
 
