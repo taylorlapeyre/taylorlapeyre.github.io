@@ -1,6 +1,6 @@
 body {
-  background-color: #40626e;
-  color: #DDD;
+  background-color: #fdfdfd;
+  color: #333;
   margin: 0 auto;
   padding-top: 10%;
 
@@ -34,7 +34,6 @@ a:hover {
 .name {
   font-size: 2em;
   font-weight: 100;
-  color: #DDD;
   margin-bottom: 50px;
 }
 
@@ -42,9 +41,6 @@ a:hover {
   float: right;
   position: relative;
   left: -50px;
-  -webkit-filter: grayscale(40%);
-  opacity:0.9;
-  filter:alpha(opacity=90); /* For IE8 and earlier */
   max-width: 100%;
   box-shadow: 1px 1px 5px #333;
   border-radius: 5px;
