@@ -5,7 +5,7 @@ title: About Me
 
 ### A Little More About Me ###
 
-Reading walls of text on the internet is a pain, so I will try to be consise.
+Reading walls of text on the internet is a pain, so I will try to be concise.
 
 * I like programming in [Ruby][1], Python, and Lua.
 * I like designing [web applications][2], especially with Rails.
