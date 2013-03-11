@@ -109,6 +109,10 @@ a:hover {
   padding-bottom: 5px;
 }
 
+.story li {
+  padding: 5px 0;
+}
+
 date {
   font-size: .6em;
 }
