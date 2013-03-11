@@ -7,15 +7,11 @@ title: About Me
 
 Reading walls of text on the internet is a pain, so I will try to be consise.
 
-I like programming in [Ruby][1], Python, and Lua.
-
-I like designing [web applications][2], especially with Rails.
-
-I like typography and design.
-
-I like [music][3], playing guitar, especially Jazz guitar.
-
-I like learning new things and becoming an expert at a craft.
+* I like programming in [Ruby][1], Python, and Lua.
+* I like designing [web applications][2], especially with Rails.
+* I like typography and design.
+* I like [music][3], playing guitar, especially Jazz guitar.
+* I like learning new things and becoming an expert at a craft.
 
 <br>
 
@@ -24,7 +20,7 @@ I like learning new things and becoming an expert at a craft.
 
 I welcome you to check out my [toolbox][4] and the [things I've made][5] with it.
 
-As far as hardware goes, I do all my development on a 2011 Macbook Pro running OSX. I've never found it limiting.
+As far as hardware goes, I do all my development on a 2011 Macbook Pro running OSX.
 
 You can find the source code for this website [here][6].
 
