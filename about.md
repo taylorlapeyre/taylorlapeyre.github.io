@@ -3,31 +3,34 @@ layout: page
 title: About Me
 ---
 
-I’m a software designer from New Orleans, LA. I enjoy making websites and applications that make people’s lives easier and simpler.
+### A Little More About Me ###
 
-I’m also a student at Louisiana State University and a unix and typography enthusiast.
+Reading walls of text on the internet is a pain, so I will try to be consise.
 
-I like many things. Some of these things include...
+I like programming in [Ruby][1], Python, and Lua.
 
-* Programming
-* Coffee & Tea
-* Playing jazz guitar
-* Flying stunt kites
-* Books about interesting things
+I like designing [web applications][2], especially with Rails.
 
-If you would like to contact me, send me an [email](mailto:taylorlapeyre@gmail.com) or shout at me on [twitter](http://twitter.com/taylorlapeyre).
+I like typography and design.
 
-<br>
+I like [music][3], playing guitar, especially Jazz guitar.
 
-### Colophon
-
-This website uses [typekit](https://typekit.com/) for its typography,  [symbolset](https://symbolset.com/) for its icons, and [jekyll](http://jekyllrb.com/) to generate itself.
-
-I made this website using [Sublime Text 2](http://www.sublimetext.com/) on a Macbook Pro, and I use [iA Writer](http://www.iawriter.com/) to write blog posts.
-
-You can find the source code for this website [here](https://github.com/taylorlapeyre/taylorlapeyre.me).
-
+I like learning new things and becoming an expert at a craft.
 
 <br>
 
-![Me]({{ site.baseurl }}images/profile.png)
+### Geeky Stuff ###
+
+
+I welcome you to check out my [toolbox][4] and the [things I've made][5] with it.
+
+As far as hardware goes, I do all my development on a 2011 Macbook Pro running OSX. I've never found it limiting.
+
+You can find the source code for this website [here][6].
+
+[1]: /2012/09/why-ruby/
+[2]: /2013/01/jumping-in/
+[3]: http://www.last.fm/user/taylorlapeyre
+[4]: https://github.com/taylorlapeyre/toolbox
+[5]: https://github.com/taylorlapeyre?tab=repositories
+[6]: https://github.com/taylorlapeyre/taylorlapeyre.me

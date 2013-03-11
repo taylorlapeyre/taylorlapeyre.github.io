@@ -26,6 +26,10 @@ a:hover {
   text-decoration: none;
 }
 
+.name a {
+  color: #333;
+}
+
 .main {
   width: 35%;
   margin-left: 10%;
