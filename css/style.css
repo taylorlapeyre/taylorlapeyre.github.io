@@ -1,8 +1,9 @@
 body {
+  padding: 0;
+  margin: 0;
   background-color: #fdfdfd;
   color: #333;
   margin: 0 auto;
-  padding-top: 10%;
 
   /* font-family: 'Open Sans', sans-serif; */
   font-size: 105%;
@@ -28,6 +29,10 @@ a:hover {
 
 .name a {
   color: #333;
+}
+
+header.main {
+  padding-top: 10%;
 }
 
 .main {
@@ -124,6 +129,36 @@ code {
   background-color: #5b6f75;
   padding: 4px;
   border-radius: 5px;
+}
+
+#terminal-form {
+  position: relative;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
+
+#terminal-input {
+  width: 100%;
+  height: 200px;
+  border: none;
+  font-family: "consolas", monospace;
+  font-size: 80%;
+  background: #222;
+  color: #60b044;
+  overflow: hidden;
+}
+
+#terminal-input:focus {
+  outline: 0 !important;
+  border: 0 !important;
+}
+
+#toggle-terminal {
+  cursor: pointer;
+  float: right;
+  position: relative;
+  right: 5px;
 }
 
 @import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);

@@ -9,17 +9,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
-    <!--
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
-    -->
   </head>
-
   <body>
+    <form name="terminalForm" id="terminal-form">
+      <textarea name="terminalInput" id="terminal-input"></textarea>
+    </form>
+    <a id="toggle-terminal"><img src="{{ site.baseurl }}images/console.png"></a>
     <header class="main">
       <h2 class="name"><a href="/">Taylor Lapeyre</a></h2>
     </header>
     {{ content }}
 
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.baseurl }}javascript/terminal.js"></script>
     {% include tracking.html %}
     {% include typekit.html  %}
   </body>
