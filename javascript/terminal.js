@@ -62,8 +62,11 @@ function showHelp() {
 
   // set the cursor to the last character of the box
   var input = $("#terminal-input");
-  input.selectionStart = input.selectionEnd = input.val().length;
+  var temp;
+  temp = input.val();
+  input.val('');
   input.focus();
+  input.val(temp);
 }
 
 /*
