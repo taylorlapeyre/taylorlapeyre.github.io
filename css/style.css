@@ -114,7 +114,7 @@ header.main {
   padding-bottom: 5px;
 }
 
-.story li {
+.story li, .page li {
   padding: 5px 0;
 }
 
