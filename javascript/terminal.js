@@ -49,8 +49,7 @@ function addResponse(text) {
 // the help text, gets called when the page loads
 function showHelp() {
   $("#terminal-input").val("");
-  addText("Welcome to Taylor Lapeyre's website terminal (beta)!");
-  addText("Available Commands: \n")
+  addText("Welcome to Taylor Lapeyre's website terminal (beta)!i\n");
   addText("print [something]:");
   addText("    Print [something] to the screen.");
   addText("message [content]:");
