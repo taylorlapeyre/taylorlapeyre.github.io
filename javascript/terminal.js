@@ -92,6 +92,7 @@ function runCommand(command, arguments) {
   switch (command) {
     case "print":
       addResponse('"' + argumentString + '"');
+      $(".name a").text(argumentString);
       break;
 
     case "message":
