@@ -63,8 +63,8 @@ header.main {
     display: none;
   }
 
-  .main {
-    width: 90%;
+  .main, .page, .story, .writings {
+    width: 90% !important;
     margin: 0 auto;
   }
 
@@ -72,11 +72,6 @@ header.main {
     font-size: .7em;
     line-height: 1.25em;
     width: 90%;
-  }
-
-  .story, .page {
-    width: 90%;
-    margin: 0 auto;
   }
 
 }
