@@ -29,7 +29,6 @@ a:hover {
 
 .name a {
   color: #333;
-  font-family: XtreemMedium;
 }
 
 header.main {
