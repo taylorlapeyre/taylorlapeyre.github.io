@@ -6,11 +6,13 @@ date: 2013-04-16
 
 In this post, I'd like to tell you about how I have abstracted almost everything away from my computer using just a couple tools: git and vagrant.
 
+#### So what's so great about Vagrant?
+
 Anybody that knows me can tell you that I'm a neat freak when it comes to software and my development enviroment. Scattered binaries are a sickness to me, and it was only recently that I discovered the best medicine in the world for it - [vagrant][1].
 
 I won't go into detail about how vagrant works, but concisely it is a utility that allows you to quickly maintain, create, run, and destroy disposable virtual machines. "But Taylor," you may ask, "why would this be useful to me, who has no need for fancy virtual machines?" The answer is that precisely configured VMs allow you to abstract almost every development tool away from your actual setup.
 
-Perhaps an example would be most appropriate here.
+#### An example
 
 Say that I'm a developer that mainly works with PHP web frameworks, Rails, miscelaneous Ruby and Python projects, and is learning the [Clojure][2] programming language on the side. At the moment, I have...
 
@@ -29,6 +31,8 @@ To use all of these things for a certain project, I simply `cd` into the project
 From then on, I can run all of my programs through the VM with `vagrant ssh`. If the project has extra dependencies, I simply specify them in the Vagrantfile for that project. Once I'm done developing for the day, I just `vagrant destroy` to erase all sign of the VM from my computer.
 
 This setup also allows me to try out new languages, frameworks, CMS's, and more without muddying up my local computer.
+
+#### Why this is simpler
 
 You may be thinking to yourself, "That's neat, but this is all terribly confusing and complicated. The original setup seemed much simpler!". In reality, once the VM has been saved as a box it makes my life about 130% simpler. Using a new machine? No problem, just install git and vagrant, copy over `develop.box`, and I have my entire development enviroment immediately at my fingertips.
 
