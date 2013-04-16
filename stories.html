@@ -7,10 +7,13 @@ title: Stories
   <ul class="stories">
     {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <date>{{ post.date | date_to_string }}</date>
-        {{ post.content | strip_html | truncatewords:30 }}
+        <small class="caption">
+          {{ post.content | strip_html | truncatewords:30 }}
+        </small>
     </li>
+    <br>
     {% endfor %}
   </ul>
 </section>
