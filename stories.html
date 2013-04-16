@@ -9,7 +9,7 @@ title: Stories
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <date>{{ post.date | date_to_string }}</date>
-        {{ post.content | truncatewords:30 }}
+        {{ post.content | strip_html | truncatewords:30 }}
     </li>
     {% endfor %}
   </ul>
