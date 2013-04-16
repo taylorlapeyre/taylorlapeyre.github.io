@@ -24,11 +24,13 @@ This is a mess to me. In my opinion we should take all of these different develo
 
 I made a new vagrant box called `develop.box` based on Ubuntu 12.04 x64, which contains all of the things listed above. These utilities and programs were installed in an organized way with [Chef][3], and configured specificaly for the VM.
 
-To use all of these things for a certain project, I simply `cd` into the project directory and run `vagrant init develop`, forward my ports in the Vagrantfile if necessary, and boot up the system with `vagrant up`. From then on, I can run all of my programs through the VM with `vagrant ssh`. If the project has extra dependencies, I simply specify them in the Vagrantfile for that project. Once I'm done developing for the day, I just `vagrant destroy` to erase all sign of the VM from my computer.
+To use all of these things for a certain project, I simply `cd` into the project directory and run `vagrant init develop`, forward my ports in the Vagrantfile if necessary, and boot up the system with `vagrant up`.
+
+From then on, I can run all of my programs through the VM with `vagrant ssh`. If the project has extra dependencies, I simply specify them in the Vagrantfile for that project. Once I'm done developing for the day, I just `vagrant destroy` to erase all sign of the VM from my computer.
 
 This setup also allows me to try out new languages, frameworks, CMS's, and more without muddying up my local computer.
 
-You may be thinking to yourself, "That's neat, this is all terribly confusing and complicated. The original setup seemed much simpler!". In reality, once the VM has been saved as a box it makes my life about 130% simpler. Using a new machine? No problem, just install git and vagrant, copy over `develop.box`, and I have my entire development enviroment immediately at my fingertips.
+You may be thinking to yourself, "That's neat, but this is all terribly confusing and complicated. The original setup seemed much simpler!". In reality, once the VM has been saved as a box it makes my life about 130% simpler. Using a new machine? No problem, just install git and vagrant, copy over `develop.box`, and I have my entire development enviroment immediately at my fingertips.
 
 So what *do* I keep on my computer? Well, my [editor][4] stays on my computer where I use it to manipulate all of my files exactly the same as I did before. Any changes get automatically mirrored over to my development VM. And that's about it. Everything else is nestled away in its VM, where it is far away from OSX's binaries.
 
