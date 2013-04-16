@@ -27,6 +27,6 @@ You can find the source code for this website [here][6].
 [1]: /2012/09/why-ruby/
 [2]: /2013/01/jumping-in/
 [3]: http://www.last.fm/user/taylorlapeyre
-[4]: https://github.com/taylorlapeyre/toolbox
+[4]: https://github.com/taylorlapeyre/dotfiles
 [5]: https://github.com/taylorlapeyre?tab=repositories
 [6]: https://github.com/taylorlapeyre/taylorlapeyre.me
