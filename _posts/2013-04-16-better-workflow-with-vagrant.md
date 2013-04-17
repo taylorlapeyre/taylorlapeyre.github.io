@@ -14,7 +14,7 @@ I won't go into detail about how vagrant works, but concisely it is a utility th
 
 #### An Example
 
-Say that I'm a developer that mainly works with PHP web frameworks, Rails, miscelaneous Ruby and Python projects, and is learning the [Clojure][2] programming language on the side. At the moment, I have...
+Say that I'm a developer that mainly works with PHP web frameworks, Rails, miscellaneous Ruby and Python projects, and is learning the [Clojure][2] programming language on the side. At the moment, I have...
 
 - MAMP installed on my system for my PHP / database needs
 - Various versions of ruby that I keep track of with rbenv (although I also have rvm installed from when I experimented with that)
