@@ -29,4 +29,4 @@ You can find the source code for this website [here][6].
 [3]: http://www.last.fm/user/taylorlapeyre
 [4]: https://github.com/taylorlapeyre/dotfiles
 [5]: https://github.com/taylorlapeyre?tab=repositories
-[6]: https://github.com/taylorlapeyre/taylorlapeyre.me
+[6]: https://github.com/taylorlapeyre/taylorlapeyre.github.io
