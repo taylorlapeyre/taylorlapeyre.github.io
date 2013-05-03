@@ -34,7 +34,7 @@ These are some of my favorite things. Hopefully you'll find some use in them as 
 [2]: http://shop.frankchimero.com/collections/frontpage/products/the-shape-of-design-digital-preorder
 [3]: http://www.amazon.com/Mindfulness-Plain-English-20th-Anniversary/dp/0861719069/
 [5]: http://ajoto.com/products/
-[6]: http://www.amazon.com/Rhodia-Orange-Lined-Paper-Pack/dp/B00522DLCA/
+[6]: http://www.amazon.com/Rhodia-Classic-Staple-Bound-Yellow/dp/B001DCDSTY/
 [7]: http://www.vagrantup.com/
 [8]: http://www.sublimetext.com/
 [9]: http://www.3sixteen.com/collections/denim/products/sl100x-straight-raw-indigo-selvedge-denim
