@@ -19,7 +19,7 @@ These are some of my favorite things. Hopefully you'll find some use in them as 
 
 #### Software
 
-- [Crunchbang Linux][10]
+- [Arch Linux][10]
 - [Vagrant][7]
 - [Sublime Text][8]
 
@@ -38,7 +38,7 @@ These are some of my favorite things. Hopefully you'll find some use in them as 
 [7]: http://www.vagrantup.com/
 [8]: http://www.sublimetext.com/
 [9]: http://www.3sixteen.com/collections/denim/products/sl100x-straight-raw-indigo-selvedge-denim
-[10]: http://crunchbang.org/
+[10]: http://archlinux.org/
 [11]: http://shop.outlier.cc/shop/retail/slim-dungarees.html
 [12]: http://www.redwingheritage.com/boots/#&m=/detail/8111-heritage-us/8111-red-wing-lifestyle-mens-iron-ranger-boot-amber/
 [13]: http://www.amazon.com/Braun-Travel-Alarm-Clock-Black/dp/B004XK1L7Y
