@@ -20,7 +20,7 @@ Reading walls of text on the internet is a pain, so I will try to be concise.
 
 I welcome you to check out my [toolbox][4] and the [things I've made][5] with it.
 
-As far as hardware goes, I do all my development on a 2011 Macbook Pro running OSX.
+I do all my development on a Macbook Pro and an old Dell laptop running Arch Linux.
 
 You can find the source code for this website [here][6].
 
