@@ -169,4 +169,8 @@ code {
   right: 5px;
 }
 
+.recommended img {
+  width: 100%;
+}
+
 @import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
