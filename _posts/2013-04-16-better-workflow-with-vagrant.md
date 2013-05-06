@@ -40,8 +40,11 @@ So what *do* I keep on my computer? Well, my [editor][4] stays on my computer wh
 
 My development box is available [here][5] if you'd like to download it, as well as a more lightweight LAMP setup for smaller projects.
 
+Feel free to join the [HN discussion][6].
+
 [1]: http://www.vagrantup.com/
 [2]: http://clojure.org/
 [3]: http://www.opscode.com/chef/
 [4]: http://www.sublimetext.com/
 [5]: http://files.taylorlapeyre.me/treasure/boxes/
+[6]: https://news.ycombinator.com/item?id=5559856
