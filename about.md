@@ -11,6 +11,7 @@ Reading walls of text on the internet is a pain, so I will try to be concise.
 * I like designing [web applications][2], especially with Rails.
 * I like typography and design.
 * I like [music][3] and playing guitar, especially Jazz guitar.
+* I like using Unix systems and am an advocate for open source software.
 * I like learning new things and becoming an expert at a craft.
 
 <br>
@@ -20,7 +21,7 @@ Reading walls of text on the internet is a pain, so I will try to be concise.
 
 I welcome you to check out my [toolbox][4] and the [things I've made][5] with it.
 
-I do all my development on a Macbook Pro and an old Dell laptop running Arch Linux.
+I do all my development on an old Dell laptop running Linux, although I use a Macbook Pro for everyday computing.
 
 You can find the source code for this website [here][6].
 
