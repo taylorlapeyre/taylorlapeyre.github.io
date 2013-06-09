@@ -55,7 +55,7 @@ function showHelp() {
   addText("message [content]:");
   addText("    Send an email to Taylor Lapeyre with the body [content]. (not yet functional)");
   addText("goto [location]:");
-  addText("    Go to [location] in the site. (valid input: 'stories', 'about')");
+  addText("    Go to [location]. Example: home, twitter, stories, about, github)");
   addText("speaktome:");
   addText("    Get some words of wisdom.");
   $("#terminal-input").val($("#terminal-input").val() + "\n> ");
@@ -102,7 +102,9 @@ function runCommand(command, arguments) {
 
     case "goto":
       if (arguments[0] == "home") window.location = "/";
-      else window.location = "/" + arguments[0] + ".html";
+      else if (arguments[0] == "twitter") window.location = "http://twitter.com/taylorlapeyre";
+      else if (arguments[0] == "github") window.location = "http://github.com/taylorlapeyre";
+      else window.location = "/" + arguments[0];
       break;
 
     case "help":
