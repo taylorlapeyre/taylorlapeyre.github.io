@@ -175,3 +175,8 @@ code {
 }
 
 @import url(http://yandex.st/highlightjs/7.3/styles/github.min.css);
+
+
+.wf-loading body {
+    visibility: hidden;
+}
