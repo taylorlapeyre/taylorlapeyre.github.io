@@ -11,7 +11,7 @@ body {
   font-weight: 300;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-family:"Proxima Nova Alt Thin", 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family:"Proxima Nova Alt", 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
 p {
