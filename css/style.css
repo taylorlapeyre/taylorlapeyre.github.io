@@ -114,7 +114,7 @@ header.main {
 }
 
 .story h3, .page h3 {
-  font-weight: 100;
+  font-weight: bold;
   font-size: 1.2em !important;
   border-bottom: 1px solid #DDD;
   margin-bottom: 30px;
