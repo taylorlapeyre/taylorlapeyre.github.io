@@ -8,20 +8,19 @@ title: About Me
 Reading walls of text on the internet is a pain, so I will try to be concise.
 
 * I like programming in [Ruby][1], Python, and Clojure.
-* I like designing [web applications][2], especially with Rails.
+* I like designing web applications.
 * I like typography and design.
-* I like [music][3] and playing guitar, especially Jazz guitar.
+* I like [music][3] and playing instruments, especially jazz guitar.
 * I like using Unix systems and am an advocate for open source software.
-* I like learning new things and becoming an expert at a craft.
-
-<br>
-
-### Geeky Stuff ###
-
+* I believe that simplicity is always better than compexity.
 
 I welcome you to check out my [toolbox][4] and the [things I've made][5] with it.
 
-I do all my development on an old Dell laptop running Linux, although I use a Macbook Pro for everyday computing.
+<br>
+
+### Colophon ###
+
+I develop software on an old Dell laptop running Arch Linux, although I use a Macbook Pro for everyday computing.
 
 You can find the source code for this website [here][6].
 
