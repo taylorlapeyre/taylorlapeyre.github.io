@@ -24,6 +24,8 @@ I develop software on an old Dell laptop running Arch Linux, although I use a Ma
 
 You can find the source code for this website [here][6].
 
+![Profile](/images/profile.png)
+
 [1]: /2012/09/why-ruby/
 [2]: /2013/01/jumping-in/
 [3]: http://www.last.fm/user/taylorlapeyre

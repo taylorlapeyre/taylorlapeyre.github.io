@@ -113,6 +113,12 @@ header.main {
   margin: 0 auto;
 }
 
+.story img, .page img {
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+  border-radius: 4px;
+}
 .story h3, .page h3 {
   font-weight: bold;
   font-size: 1.2em !important;
