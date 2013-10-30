@@ -7,8 +7,8 @@ title: About Me
 
 Reading walls of text on the internet is a pain, so I will try to be concise.
 
-* I like programming in [Ruby][1], Python, and Clojure.
-* I like designing web applications.
+* I like programming in [Ruby][1], Javascript, and Clojure.
+* I specialize in web applications, although I'm learning iOS development as well.
 * I like typography and design.
 * I like [music][3] and playing instruments, especially jazz guitar.
 * I like using Unix systems and am an advocate for open source software.
