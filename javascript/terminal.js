@@ -49,13 +49,13 @@ function addResponse(text) {
 // the help text, gets called when the page loads
 function showHelp() {
   $("#terminal-input").val("");
-  addText("Welcome to Taylor Lapeyre's website terminal (beta)!\n");
+  addText("Welcome to Taylor Lapeyre's website terminal!\n");
   addText("print [something]:");
-  addText("    Print [something] to the screen.");
+  addText("    Replace the site header with [something].");
   addText("message [content]:");
-  addText("    Send an email to Taylor Lapeyre with the body [content]. (not yet functional)");
+  addText("    Send an email to Taylor Lapeyre with the body [content].");
   addText("goto [location]:");
-  addText("    Go to [location]. Example: home, twitter, stories, about, github)");
+  addText("    Go to [location]. Example: home, twitter, writing, about, github");
   addText("speaktome:");
   addText("    Get some words of wisdom.");
   $("#terminal-input").val($("#terminal-input").val() + "\n> ");
@@ -102,7 +102,7 @@ function runCommand(command, arguments) {
         body: argumentString
       }
       sendEmail(mailOpts);
-      addResponse("Message Sent!");
+      addResponse("Redirecting to Gmail...");
       break;
 
     case "goto":
