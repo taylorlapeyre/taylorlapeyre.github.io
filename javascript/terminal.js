@@ -96,7 +96,12 @@ function runCommand(command, arguments) {
       break;
 
     case "message":
-      console.log(argumentString);
+      var mailOpts = {
+        to: "taylorlapeyre@gmail.com",
+        subject: "Hello!",
+        body: argumentString
+      }
+      sendEmail(mailOpts);
       addResponse("Message Sent!");
       break;
 
@@ -104,6 +109,7 @@ function runCommand(command, arguments) {
       if (arguments[0] == "home") window.location = "/";
       else if (arguments[0] == "twitter") window.location = "http://twitter.com/taylorlapeyre";
       else if (arguments[0] == "github") window.location = "http://github.com/taylorlapeyre";
+      else if (arguments[0] == "writing") window.location = "http://medium.com/@taylorlapeyre";
       else window.location = "/" + arguments[0];
       break;
 
@@ -119,6 +125,15 @@ function runCommand(command, arguments) {
     default:
       addResponse("Unrecognized Command.");
   }
+}
+
+function sendEmail(opts){
+  var str = 'http://mail.google.com/mail/?view=cm&fs=1'+
+    '&to=' + opts.to +
+    '&su=' + opts.subject +
+    '&body=' + opts.message +
+    '&ui=1';
+  location.href = str;
 }
 
 quotes = ["Calm down. its only ones and zeros. ",
