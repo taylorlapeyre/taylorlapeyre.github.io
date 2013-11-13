@@ -162,6 +162,7 @@ code {
   background: #222;
   color: #60b044;
   overflow: hidden;
+  box-shadow: inset -1px 0px 6px #000;
 }
 
 #terminal-input:focus {
