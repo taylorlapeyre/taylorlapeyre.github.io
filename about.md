@@ -8,10 +8,10 @@ title: About Me
 Reading walls of text on the internet is a pain, so I will try to be concise.
 
 * I like programming in [Ruby][1], Javascript, and Clojure.
-* I specialize in web applications, although I'm learning iOS development as well.
-* I like typography, design of all kinds, and [clothing][2].
-* I like [music][3] and play jazz guitar and banjo.
-* I like using unix-based systems and am an advocate for open source software.
+* I specialize in web applications, with an interest in iOS development.
+* I like typography, [clothing][2], and design of all kinds.
+* I like [music][3], and I play jazz guitar and banjo.
+* I am an advocate for open source software.
 * I believe that simplicity is always better than compexity.
 
 I welcome you to check out my [tools][4] and the [things I've made][5] with them.
