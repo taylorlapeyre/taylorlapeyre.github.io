@@ -28,7 +28,7 @@ You can find the source code for this website [here][6].
 ![Profile](/images/profile.png)
 
 [1]: https://medium.com/the-way-of-ruby/15a9dfd2d5e7
-[2]: http://basicwardrobe.info
+[2]: https://github.com/taylorlapeyre/basic-wardrobe
 [3]: http://www.last.fm/user/taylorlapeyre
 [4]: https://github.com/taylorlapeyre/.files
 [5]: https://github.com/taylorlapeyre?tab=repositories
