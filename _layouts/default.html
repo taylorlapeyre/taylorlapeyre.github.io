@@ -1,30 +1,20 @@
 <!doctype html>
 <html>
-  <head>
-    {% if page.title == 'Home' %}
-    <title>Taylor Lapeyre</title>
-    {% else %}
-    <title>{{ page.title }}</title>
-    {% endif %}
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}css/animate.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}css/xtreem.css">
-  </head>
-  <body>
-    <form name="terminalForm" id="terminal-form">
-      <textarea name="terminalInput" id="terminal-input" spellcheck=false></textarea>
-    </form>
-    <a id="toggle-terminal" class="animated fadeInDownBig"><img src="{{ site.baseurl }}images/console.png"></a>
-    <header class="main">
-      <h2 class="name"><a href="/">Taylor Lapeyre</a></h2>
-    </header>
-    {{ content }}
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="/assets/css/style.css">
+		<link rel="stylesheet" href="/assets/css/xtreem.css">
+	</head>
+	<body>
+		<header>
+			<h1><a href="/">Taylor Lapeyre</a></h1>
+		</header>
 
-    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.baseurl }}javascript/terminal.js"></script>
-    {% include tracking.html %}
-    {% include fontdeck.html  %}
-  </body>
+		<div class="main">
+			{{ content }}
+		</div>
+
+		<script src="/assets/js/main.js"></script>
+	</body>
 </html>
