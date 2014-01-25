@@ -5,7 +5,7 @@ title: Taylor Lapeyre
 
 I'm a web developer in New Orleans. Right now I go to Louisiana State University.
 
-I'm currently a a developer at [Everlane][1], where I am lucky enough to be building one of my favorite clothing brands, and lead developer at [Spare Hanger][0] in Baton Rouge.
+I'm currently a part-time developer at [Everlane][1], where I am lucky enough to be building one of my favorite clothing brands, and lead developer at [Spare Hanger][0] in Baton Rouge.
 
 I've also been the web developer for the [Louisiana Biomedical Research Network][2] for almost three years. This year I began working on a new [website][3] that will make it easier for people to find a place to live.
 
