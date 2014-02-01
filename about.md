@@ -19,7 +19,7 @@ I welcome you to check out my [tools][5] and the [things I've made][6] with them
 
 ### Colophon
 
-I develop on a Macbook Pro. I also have an old Dell laptop that I use for Linux experiments.
+My computer is a Macbook Pro, and my editor is [Sublime Text][9].
 
 You can find the source code for this website [here][7].
 
@@ -33,3 +33,5 @@ You can find the source code for this website [here][7].
 [5]: https://github.com/taylorlapeyre/.files
 [6]: https://github.com/taylorlapeyre?tab=repositories
 [7]: https://github.com/taylorlapeyre/taylorlapeyre.github.io
+[8]: http://www.vim.org/
+[9]: http://www.sublimetext.com/
