@@ -23,6 +23,8 @@ My computer is a Macbook Pro, and my editor is [Sublime Text][9].
 
 You can find the source code for this website [here][7].
 
+I look like this:
+
 ![Profile](/assets/images/profile.png)
 
 [0]: https://medium.com/the-way-of-ruby/15a9dfd2d5e7
