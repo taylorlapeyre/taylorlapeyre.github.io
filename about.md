@@ -5,25 +5,18 @@ title: About Me
 
 ### A Little More About Me
 
-Reading walls of text on the internet is a pain, so I will try to be concise.
+Reading walls of text on the internet is a pain, so I'll try to be concise.
 
 - I like programming in [Ruby][0], Javascript, and Clojure.
+- I really like the web and making things for it.
 - I specialize in web applications, with an interest in iOS development.
-- I am an advocate for open source software.
+- I'm an advocate for open source software, and I try to contribute where I can.
 - I like typography, [clothing][1], and design of all kinds.
-- I like flying [kites][2] and model airplanes.
 - I love [music][3], and I play jazz guitar and banjo.
-- I occasionally write down my [thoughts][4].
 
-I welcome you to check out my [tools][5] and the [things I've made][6] with them.
+Check out my [tools][5] and some of the [things I've made][6] with them.
 
-### Colophon
-
-My computer is a Macbook Pro, and my editor is [Sublime Text][9].
-
-You can find the source code for this website [here][7].
-
-I look like this:
+I use a macbook, and my editor is [Atom][9]. You can find the source code for this website [here][7].
 
 ![Profile](/assets/images/profile.png)
 
@@ -36,4 +29,4 @@ I look like this:
 [6]: https://github.com/taylorlapeyre?tab=repositories
 [7]: https://github.com/taylorlapeyre/taylorlapeyre.github.io
 [8]: http://www.vim.org/
-[9]: http://www.sublimetext.com/
+[9]: https://atom.io/
