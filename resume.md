@@ -18,6 +18,14 @@ title: Resume
 
 ### Experience
 
+#### Everlane
+
+*Contracted Developer - [everlane.com][everlane]*
+
+*Feb. 2014 - Present*
+
+- Worked remotely with the engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js
+
 #### Keletaire, LLC.
 
 *Web Developer - [sparehanger.com][sh]*
@@ -79,8 +87,10 @@ Git · GitHub · Vim · Xcode · LaTeX
 - [atom / atom-dark-ui][atomui]
 
 [email]: mailto:hello@taylorlapeyre.me
+[github]: https://github.com/taylorlapeyre
 [sh]: http://sparehanger.com
 [lbrn]: http://lbrn.lsu.edu
 [homebrew]: https://github.com/phinze/homebrew-cask
 [atomtabs]: https://github.com/atom/tabs
 [atomui]: https://github.com/atom/atom-dark-ui/
+[everlane]: https://everlane.com
