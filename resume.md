@@ -39,6 +39,8 @@ title: Resume
 
 *Web Developer - [lbrn.lsu.edu][lbrn]*
 
+*Jan. 2012 - Present*
+
 - Used and maintained the equipment and software of the LBRN grant at LSU.
 - Completely redesigned and rebuilt website from scratch using the Jekyll static site generator
 - Performed a large variety of server related tasks, including:
