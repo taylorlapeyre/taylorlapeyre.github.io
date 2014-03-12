@@ -70,6 +70,15 @@ Git · GitHub · Vim · Xcode · LaTeX
 - First place in Louisiana District Rally for Computer Science
 - Two-time participant in the LSU Venture Challenge
 
+#### Open Source Contributions
+
+- [phinze / homebrew-cask][homebrew]
+- [atom / tabs][atomtabs]
+- [atom / atom-dark-ui][atomui]
+
 [email]: mailto:hello@taylorlapeyre.me
 [sh]: http://sparehanger.com
 [lbrn]: http://lbrn.lsu.edu
+[homebrew]: https://github.com/phinze/homebrew-cask
+[atomtabs]: https://github.com/atom/tabs
+[atomui]: https://github.com/atom/atom-dark-ui/
