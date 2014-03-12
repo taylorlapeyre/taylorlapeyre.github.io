@@ -119,3 +119,7 @@ h1 a, h1 a:hover {
 .resume em {
   font-size: 0.85em;
 }
+
+.resume em a {
+  font-style: normal;
+}

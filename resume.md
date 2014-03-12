@@ -20,7 +20,7 @@ title: Resume
 
 #### Keletaire, LLC.
 
-*Web Developer* - [sparehanger.com][sh]
+*Web Developer - [sparehanger.com][sh]*
 
 *Dec. 2012 - Feb. 2014*
 
@@ -37,7 +37,7 @@ title: Resume
 
 #### Louisiana Biomedical Research Network
 
-*Web Developer* - [lbrn.lsu.edu][lbrn]
+*Web Developer - [lbrn.lsu.edu][lbrn]*
 
 - Used and maintained the equipment and software of the LBRN grant at LSU.
 - Completely redesigned and rebuilt website from scratch using the Jekyll static site generator
