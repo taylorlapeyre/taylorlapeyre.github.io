@@ -39,7 +39,7 @@ title: Resume
   - detecting and sorting colors
   - showing an infinite page of items
 - Trained co-workers in the areas of:
-  - MVC Application design
+  - MVC application design
   - version control for source code
   - miscellaneous programming concepts
 
