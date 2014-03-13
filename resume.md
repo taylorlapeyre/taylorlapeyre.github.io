@@ -26,23 +26,6 @@ title: Resume
 
 - Worked remotely with the engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js
 
-#### Keletaire, LLC.
-
-*Web Developer - [sparehanger.com][sh]*
-
-*Dec. 2012 - Feb. 2014*
-
-- Designed and built all user interface components for the site.
-- Worked with the Yii PHP framework to build a large-scale application
-- Implemented algorithms for:
-  - matching items to users’ interests
-  - detecting and sorting colors
-  - showing an infinite page of items
-- Trained co-workers in the areas of:
-  - MVC application design
-  - version control for source code
-  - miscellaneous programming concepts
-
 #### Louisiana Biomedical Research Network
 
 *Web Developer - [lbrn.lsu.edu][lbrn]*
@@ -56,6 +39,22 @@ title: Resume
   - Website development using a Content Management System, static HTML and CSS, and Javascript
   - Using and maintaining Access Grid cameras, equipment, and software for online video meetings across LSU.
 
+#### Keletaire, LLC.
+
+*Web Developer - [sparehanger.com][sh]*
+
+*Nov. 2012 - Feb. 2014*
+
+- Designed and built all user interface components for the site.
+- Worked with the Yii PHP framework to build a large-scale application
+- Implemented algorithms for:
+  - matching items to users’ interests
+  - detecting and sorting colors
+  - showing an infinite page of items
+- Trained co-workers in the areas of:
+  - MVC application design
+  - version control for source code
+  - miscellaneous programming concepts
 
 ### Skills
 
