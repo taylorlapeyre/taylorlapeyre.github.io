@@ -50,7 +50,7 @@ title: Resume
 - Developed a mobile application using Phone Gap and Backbone.js.
 - Implemented algorithms for:
   - Matching items to users’ interests.
-  - Setecting and sorting colors.
+  - Selecting and sorting colors.
   - Showing an infinite page of items.
   - Filtering items based on user input.
   - A comprehensive RESTful API.
