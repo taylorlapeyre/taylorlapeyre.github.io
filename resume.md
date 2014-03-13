@@ -19,6 +19,7 @@ title: Resume
 ### Experience
 
 #### Everlane
+*San Francisco, CA*
 
 *Contracted Developer - [everlane.com][everlane]*
 
@@ -26,7 +27,8 @@ title: Resume
 
 - Worked remotely with the engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js
 
-#### Keletaire, LLC.
+#### Keletaire
+*Baton Rouge, LA*
 
 *Web Developer - [sparehanger.com][sh]*
 
@@ -44,6 +46,7 @@ title: Resume
   - miscellaneous programming concepts
 
 #### Louisiana Biomedical Research Network
+*Baton Rouge, LA*
 
 *Web Developer - [lbrn.lsu.edu][lbrn]*
 
