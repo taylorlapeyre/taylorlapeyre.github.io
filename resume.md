@@ -46,15 +46,19 @@ title: Resume
 *Nov. 2012 - Feb. 2014*
 
 - Designed and built all user interface components for the site.
-- Worked with the Yii PHP framework to build a large-scale application
+- Worked with the Yii PHP framework to build a large-scale application.
+- Developed a mobile application using Phone Gap and Backbone.js.
 - Implemented algorithms for:
-  - matching items to users’ interests
-  - detecting and sorting colors
-  - showing an infinite page of items
+  - Matching items to users’ interests.
+  - Setecting and sorting colors.
+  - Showing an infinite page of items.
+  - Filtering items based on user input.
+  - A comprehensive RESTful API.
 - Trained co-workers in the areas of:
-  - MVC application design
-  - version control for source code
-  - miscellaneous programming concepts
+  - MVC application design.
+  - Version control for source code.
+  - Miscellaneous programming concepts.
+
 
 ### Skills
 
