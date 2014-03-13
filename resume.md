@@ -54,10 +54,7 @@ title: Resume
   - Showing an infinite page of items.
   - Filtering items based on user input.
   - A comprehensive RESTful API.
-- Trained co-workers in the areas of:
-  - MVC application design.
-  - Version control for source code.
-  - Miscellaneous programming concepts.
+- Trained co-workers in the areas of MVC application design, version control, and miscellaneous programming concepts.
 
 
 ### Skills
