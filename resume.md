@@ -59,11 +59,11 @@ title: Resume
 
 ### Skills
 
-All items listed from most to least proficient.
+Proficient in all items listed. Items are sorted from most to least experience.
 
 #### Languages
 
-Ruby · Javascript · PHP · Python · Java · Objective-C · Shell · Clojure
+Ruby · Javascript · PHP · Shell · Python · Java · Objective-C · Clojure
 
 #### Frameworks & Libraries
 
