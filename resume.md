@@ -67,11 +67,11 @@ Ruby · Javascript · PHP · Shell · Python · Java · Objective-C · Clojure
 
 #### Frameworks & Libraries
 
-Ruby on Rails · Backbone.js · Yii · Angular.js · Sinatra · React.js
+Ruby on Rails · Backbone.js · Rspec · Jasmine · Yii · Angular.js · Sinatra · React.js
 
 #### Applications & Services
 
-Git · GitHub · Vim · Xcode · LaTeX
+Git · GitHub · Vim · Git · MySQL · PostgreSQL · LaTeX
 
 
 ### Memberships & Achievements
