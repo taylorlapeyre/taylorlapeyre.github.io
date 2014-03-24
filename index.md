@@ -20,7 +20,7 @@ Still reading? A little more [about me][6].
 [0]: http://sparehanger.com
 [1]: http://everlane.com
 [2]: http://lbrn.lsu.edu
-[3]: https://github.com/taylorlapeyre/agora
+[3]: https://github.com/selbyk/agora
 [4]: http://twitter.com/taylorlapeyre
 [5]: mailto:hello@taylorlapeyre.me
 [6]: /about
