@@ -18,7 +18,7 @@ Check out my [tools][5] and some of the [things I've made][6] with them.
 
 I use a macbook, and my editor is [Atom][9]. You can find the source code for this website [here][7].
 
-![Profile](/assets/images/profile.png)
+![Profile](/assets/images/profile.jpeg)
 
 [0]: https://medium.com/the-way-of-ruby/15a9dfd2d5e7
 [1]: https://github.com/taylorlapeyre/basic-wardrobe
