@@ -16,7 +16,7 @@ title: Resume
 *Aug. 2011 - Present (Expected: May 2015)*
 
 
-### Experience
+### Professional Experience
 
 #### Everlane
 
@@ -73,6 +73,12 @@ Ruby on Rails · Backbone.js · Rspec · Jasmine · Yii · Angular.js · Sinatra
 
 Git · GitHub · Vim · Git · MySQL · PostgreSQL · LaTeX
 
+### Notable Projects
+
+- [Agora][agora] - An open source website for sharing code snippets.
+- [Basic Wardrobe][basic] - A small website that lays out a minimalist wardrobe for men.
+- [Robo][robo] - A small emotional robot build with Arduino and Processing.
+- [Reactive Record][rr] - A small coffeescript library that provides a simple and intuitive interface for asynchronous data.
 
 ### Memberships & Achievements
 
@@ -94,3 +100,7 @@ Git · GitHub · Vim · Git · MySQL · PostgreSQL · LaTeX
 [atomtabs]: https://github.com/atom/tabs
 [atomui]: https://github.com/atom/atom-dark-ui/
 [everlane]: https://everlane.com
+[agora]: http://www.codeagora.co/
+[basic]: http://basicwardrobe.info/
+[robo]: https://github.com/taylorlapeyre/robo
+[rr]: https://github.com/taylorlapeyre/reactive-record
