@@ -77,8 +77,8 @@ Git · GitHub · Vim · Git · MySQL · PostgreSQL · LaTeX
 
 - [Agora][agora] - An open source website for sharing code snippets.
 - [Basic Wardrobe][basic] - A small website that lays out a minimalist wardrobe for men.
-- [Robo][robo] - A small emotional robot build with Arduino and Processing.
-- [Reactive Record][rr] - A small coffeescript library that provides a simple and intuitive interface for asynchronous data.
+- [Robo][robo] - A small emotional robot built with Arduino and Processing.
+- [Reactive Record][rr] - A small Coffeescript library that provides a simple and intuitive interface for asynchronous data.
 
 ### Memberships & Achievements
 
