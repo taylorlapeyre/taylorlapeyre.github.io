@@ -24,7 +24,7 @@ title: Resume
 
 *Feb. 2014 - Present*
 
-- Worked remotely with the engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js.
+- Worked remotely with a San Francisco-based engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js.
 
 #### Louisiana Biomedical Research Network
 
