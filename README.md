@@ -1,7 +1,8 @@
-#### taylorlapeyre.me
+### taylorlapeyre.me
 
-This is my website. It uses [Jekyll](jekyllrb.com) to generate itself. Seriously this thing couldn't be simpler.
+This is my website. It's source code is very simple, because the site is also very simple.
 
-#### Typography
-
-I use Helvetica Neue for body and heading text and [Xtreem](http://www.myfonts.com/fonts/mawns/xtreem/) for the main header.
+- It uses Jekyll to generate itself.
+- It uses the wonderful [Xtreem](http://www.myfonts.com/fonts/mawns/xtreem/) typeface for the header.
+- All content is written in markdown, including my [résumé](/resume.md).
+- It is hosted with [GitHub Pages](https://pages.github.com/).
