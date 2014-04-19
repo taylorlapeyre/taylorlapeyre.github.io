@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Resume
+title: Résumé
 ---
 
 ## Taylor Lapeyre
