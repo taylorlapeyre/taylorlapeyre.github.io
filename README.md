@@ -1,6 +1,6 @@
 ### taylorlapeyre.me
 
-This is my website. It's source code is very simple, because the site is also very simple.
+This is my website. Its source code is very simple, because the site is also very simple.
 
 - It uses Jekyll to generate itself.
 - It uses the wonderful [Xtreem](http://www.myfonts.com/fonts/mawns/xtreem/) typeface for the header.
