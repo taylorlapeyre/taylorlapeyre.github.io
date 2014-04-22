@@ -11,7 +11,7 @@ I was a lead developer at [Spare Hanger][0] for almost two years, where I implem
 
 I've also been the web developer for the [Louisiana Biomedical Research Network][2] for almost three years.
 
-This year I began working on a new [website][3] that will make it easier for people to find new ways to code.
+This year I made a new [website][3] that will make it easier for people to find new ways to code.
 
 I love to talk about software, programming, design, music, and many other things. You can reach me through [Twitter][4] or [email][5].
 
