@@ -59,7 +59,7 @@ title: Résumé
 
 ### Skills
 
-Proficient in all items listed. Items are sorted from most to least experience.
+Proficient in all items listed, sorted from most to least experience.
 
 #### Languages
 
