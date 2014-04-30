@@ -14,7 +14,7 @@ Reading walls of text on the internet is a pain, so I'll try to be concise.
 - I like typography, [clothing][1], and design of all kinds.
 - I love [music][3], and I play jazz guitar and banjo.
 
-Check out my [tools][5] and some of the [things I've made][6] with them.
+Check out my [tools][5] and some of the [things I've made][6] with them. Looking for something more official? Here's my [résumé][resume].
 
 I use a macbook, and my editor is [Atom][9]. You can find the source code for this website [here][7].
 
@@ -30,3 +30,4 @@ I use a macbook, and my editor is [Atom][9]. You can find the source code for th
 [7]: https://github.com/taylorlapeyre/taylorlapeyre.github.io
 [8]: http://www.vim.org/
 [9]: https://atom.io/
+[resume]: /resume
