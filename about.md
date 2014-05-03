@@ -10,7 +10,7 @@ Reading walls of text on the internet is a pain, so I'll try to be concise.
 - I like programming in [Ruby][0], Javascript, and Clojure.
 - I really like the web and making things for it.
 - I specialize in web applications, with an interest in iOS development.
-- I'm an advocate for open source software, and I try to contribute where I can.
+- I'm an advocate for open source software, and I try to [contribute][contributions] where I can.
 - I like typography, [clothing][1], and design of all kinds.
 - I love [music][3], and I play jazz guitar and banjo.
 
@@ -31,3 +31,4 @@ I use a macbook, and my editor is [Atom][9]. You can find the source code for th
 [8]: http://www.vim.org/
 [9]: https://atom.io/
 [resume]: /resume
+[contributuions]: http://taylorlapeyre.me/resume#open_source_contributions
