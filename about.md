@@ -31,4 +31,4 @@ I use a macbook, and my editor is [Atom][9]. You can find the source code for th
 [8]: http://www.vim.org/
 [9]: https://atom.io/
 [resume]: /resume
-[contributuions]: http://taylorlapeyre.me/resume#open_source_contributions
+[contributions]: http://taylorlapeyre.me/resume#open_source_contributions
