@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/taylorlapeyre
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://taylorlapeyre.me
+  * I am taylorlapeyre (https://keybase.io/taylorlapeyre) on keybase.
+  * I have a public key with fingerprint AB1B EBEC F0DA 3CC9 43FA  73B4 A5FE F98C 15EF B3F2
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ab1bebecf0da3cc943fa73b4a5fef98c15efb3f2",
+            "host": "keybase.io",
+            "key_id": "a5fef98c15efb3f2",
+            "uid": "8a66decf26d60c2e759fbe00de3c4e00",
+            "username": "taylorlapeyre"
+        },
+        "service": {
+            "hostname": "taylorlapeyre.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402945332,
+    "expire_in": 157680000,
+    "prev": "e20f33320cd53e6abaecfc8b06c104cba87b0a017e3ae4c5a22f3349b801e5ec",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHmAnicbZFtSBRbGMfHtXxZTTK1mxIEg6DmqrPztrsDkkLSqwgVBbW1nDNzZh1f
+ZsbZcW2vqGvqp7ZuVF+CSBKTItvWLlKR0SoKl0S6FBSFgUqQtH4Qsj4kpWekPtX5
+8nCe/+/5P+c5z+SWZMKeNDlVkH7tzYOGpOn4t1biaP8etp2EmhQihXayEW0EWVH9
+yNANRTVJgQTQCRFEokxJgBFFD8vIwMVAFnAykj1u0ckhGTIyTTrIei1gVWAbCAKo
+XNFwDl98imT5/M63bghuwPMS9qd5iadEGrk4jwwRRUmIEVkcLTCADBU0I0ybINSk
+GU1ARyEDkR0OEktBRcRS+0b/P2HlOOUgdUMzNVFrwmq9aeqCVWyGdItuQ9D308cH
+FVXCH4ALgsgIKJpKCk5MiqZiGTtZivawHMPQDhKd1RUD+RSL4Fy8m8LHaoOC2BLR
+lMxgjBIljkE8gACPKLohxYtOihUhcLsgBSinCzEAsSIHaBrzrAe6KSfikIj7B1CL
+qpECj58J/NgyoPhVYLZaY0/EvZuIJDuRstlmrZCwp2/9tVhCSl2Dry8F/x/rHTyy
+H+66mfY9517W6IJcujyztPtJRaY+x5cb56NXwp16p6O/JdufkTd7IXUq/4P3mNb1
+aGbuTElRRrOt+PLHtYEvd/sqV3t+zOU8G04/WT0yktYdTrwaOlSwwqwKp8NdxEx4
+wVu84vscnV3Mt/VV/HNwcjE2Wrv82LyeaHzn7+4gqsd6D6e8dM9XRcoi2pIZVBP+
+rKK0quxTkW1wuqEkOedcj/2td/zFfLw2Pt42drtR2P6+LLYjSsfo3Nya+NendQMC
+c3zNzMscPXC/6+GNhU9S3V/7Oktu7Ry6mLAV7s3/e6LyajQ2PP1fpObO4L+Lz+kT
+xUZh6ToQGxg8
+=VvEr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/taylorlapeyre
+
+==================================================================
