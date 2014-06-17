@@ -3,7 +3,7 @@ layout: default
 title: Taylor Lapeyre
 ---
 
-I'm a web developer. Right now I go to Louisiana State University.
+I'm a web developer studying at Louisiana State University.
 
 I'm currently interning at [Everlane][everlane] in San Francisco, where I am lucky enough to be working for one of my favorite clothing brands.
 
