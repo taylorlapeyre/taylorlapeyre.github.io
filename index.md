@@ -5,7 +5,7 @@ title: Taylor Lapeyre
 
 I'm a web developer. Right now I go to Louisiana State University.
 
-I'm currently interning at [Everlane][everlane] in San Francisco, where I am lucky enough to a web developer at one of my favorite clothing brands.
+I'm currently interning at [Everlane][everlane] in San Francisco, where I am lucky enough to be working for one of my favorite clothing brands.
 
 I was a lead developer at [Spare Hanger][sh] for almost two years, where I implemented and designed many features of the site.
 
