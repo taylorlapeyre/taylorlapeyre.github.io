@@ -20,11 +20,20 @@ title: Résumé
 
 #### Everlane
 
+*Engineering Intern - [everlane.com][everlane]*
+
+*May 2014 - Present*
+
+- Worked closely with the Everlane engineering team in San Francisco.
+- Developed numerous new features and experiments on the website, mostly using Ruby and Javascript.
+
+
 *Contracted Developer - [everlane.com][everlane]*
 
-*Feb. 2014 - Present*
+*Feb. 2014 - May 2014*
 
-- Worked remotely with a San Francisco-based engineering team to develop many features for the site using mainly Ruby on Rails and Backbone.js.
+- Worked remotely with Everlane's San Francisco-based engineering team to develop many features for the site.
+- Used mainly Ruby on Rails and Backbone.js in development, as well as experimenting with other frameworks.
 
 #### Louisiana Biomedical Research Network
 
