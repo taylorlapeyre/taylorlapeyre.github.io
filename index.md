@@ -9,7 +9,7 @@ I'm currently interning at [Everlane][everlane] in San Francisco, where I am luc
 
 I was a lead developer at [Spare Hanger][sh] for almost two years, where I implemented and designed many features of the site.
 
-I've also built the website for the [Louisiana Biomedical Research Network][lbrn] and worked closely with them at LSU for three years.
+I also built the website for the [Louisiana Biomedical Research Network][lbrn] and worked closely with them at LSU for three years.
 
 This year I made a new [website][agora] that will make it easier for people to find new ways to code.
 
