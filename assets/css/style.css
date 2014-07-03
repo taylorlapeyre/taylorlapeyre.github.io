@@ -1,9 +1,9 @@
 body {
   margin: 0 auto;
-  color: #333;
+  color: #000;
   font-weight: normal;
   font-size: 109%;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'RobotoDraft', 'Roboto', 'Helvetica Neue', sans-serif;
   line-height: 1.5em;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -14,8 +14,9 @@ p {
 }
 
 a, a:hover {
-  color: #E42;
+  color: #000;
   text-decoration: none;
+  border-bottom: 2px solid #000;
 }
 
 header {
@@ -30,7 +31,8 @@ header h1 {
 }
 
 h1 a, h1 a:hover {
-  color: #333;
+  border-bottom: 0;
+  color: #000;
   text-decoration: none;
   font-family: 'XtreemMedium';
 }
