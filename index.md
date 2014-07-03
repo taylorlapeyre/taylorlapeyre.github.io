@@ -13,7 +13,7 @@ I also built the website for the [Louisiana Biomedical Research Network][lbrn] a
 
 This year I made a new [website][agora] that will make it easier for people to find new ways to code.
 
-I love to talk about software, programming, design, music, and many other things. You can reach me through [Twitter][twitter] or [email][email].
+I love to talk about software, clothing, design, music, and many other things. You can reach me through [Twitter][twitter] or [email][email].
 
 Still reading? A little more [about me][about].
 
