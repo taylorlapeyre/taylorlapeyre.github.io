@@ -7,7 +7,7 @@ I'm a web developer studying at Louisiana State University.
 
 I'm currently interning at [Everlane][everlane] in San Francisco, where I am lucky enough to be working for one of my favorite clothing brands.
 
-I was a lead developer at [Spare Hanger][sh] for almost two years, where I implemented and designed many features of the site.
+I was a lead developer at Spare Hanger for almost two years, where I implemented and designed many features of the site.
 
 I also built the website for the [Louisiana Biomedical Research Network][lbrn] and worked closely with them at LSU for three years.
 
@@ -17,7 +17,6 @@ I love to talk about software, clothing, design, music, and many other things. Y
 
 Still reading? A little more [about me][about].
 
-[sh]: http://sparehanger.com
 [everlane]: http://everlane.com
 [lbrn]: http://lbrn.lsu.edu
 [agora]: https://github.com/taylorlapeyre/agora
