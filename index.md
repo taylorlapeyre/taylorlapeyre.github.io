@@ -5,7 +5,7 @@ title: Taylor Lapeyre
 
 I'm a web developer studying at Louisiana State University.
 
-Recently, I interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands.
+I recently interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands.
 
 I was a also lead developer at Spare Hanger for almost two years. While there, I implemented and designed many features of the site.
 
