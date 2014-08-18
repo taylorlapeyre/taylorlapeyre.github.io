@@ -22,10 +22,10 @@ title: Résumé
 
 *Engineering Intern - [everlane.com][everlane]*
 
-*May 2014 - Present*
+*May 2014 - August 2014*
 
 - Worked closely with the Everlane engineering team in San Francisco.
-- Developed numerous new features and experiments on the website, mostly using Ruby and Javascript.
+- Developed numerous new features and experiments on the website, mostly using Ruby and JavaScript.
 
 
 *Contracted Developer - [everlane.com][everlane]*
