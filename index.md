@@ -5,13 +5,13 @@ title: Taylor Lapeyre
 
 I'm a web developer studying at Louisiana State University.
 
-I'm currently interning at [Everlane][everlane] in San Francisco, where I am lucky enough to be working for one of my favorite clothing brands.
+Recently, I interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands.
 
-I was a lead developer at Spare Hanger for almost two years, where I implemented and designed many features of the site.
+I was a also lead developer at Spare Hanger for almost two years. While there, I implemented and designed many features of the site.
 
-I also built the website for the [Louisiana Biomedical Research Network][lbrn] and worked closely with them at LSU for three years.
+I've worked closely with the [Louisiana Biomedical Research Network][lbrn] at LSU for three years. During that time, I rebuilt and redesigned their website from scratch.
 
-This year I made a new [website][agora] that will make it easier for people to find new ways to code.
+This year I made a [couple][koan] new [websites][agora] as personal projects to challenge myself.
 
 I love to talk about software, clothing, design, music, and many other things. You can reach me through [Twitter][twitter] or [email][email].
 
@@ -23,3 +23,4 @@ Still reading? A little more [about me][about].
 [twitter]: http://twitter.com/taylorlapeyre
 [email]: mailto:hello@taylorlapeyre.me
 [about]: /about
+[koan]: https://github.com/koan-network
