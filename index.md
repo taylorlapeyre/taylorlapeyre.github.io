@@ -11,7 +11,7 @@ I was a also lead developer at Spare Hanger for almost two years. While there, I
 
 I've worked closely with the [Louisiana Biomedical Research Network][lbrn] at LSU for three years. During that time, I rebuilt and redesigned their website from scratch.
 
-This year I made a [couple][koan] new [websites][agora] as personal projects to challenge myself.
+This year I made a [couple][division] new [websites][agora] as personal projects to challenge myself.
 
 I love to talk about software, clothing, design, music, and many other things. You can reach me through [Twitter][twitter] or [email][email].
 
@@ -23,4 +23,4 @@ Still reading? A little more [about me][about].
 [twitter]: http://twitter.com/taylorlapeyre
 [email]: mailto:hello@taylorlapeyre.me
 [about]: /about
-[koan]: https://github.com/koan-network
+[division]: https://github.com/div-ision
