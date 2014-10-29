@@ -72,15 +72,15 @@ Proficient in all items listed, sorted from most to least experience.
 
 #### Languages
 
-Ruby · Javascript · PHP · Shell · Python · Java · Objective-C · Clojure
+Ruby · Javascript · Clojure · PHP · Python · Shell · Java · Objective-C
 
 #### Frameworks & Libraries
 
-Ruby on Rails · Backbone.js · Rspec · Jasmine · Yii · Angular.js · Sinatra · React.js
+Ruby on Rails · Backbone.js · Ring · Sinatra · Yii · React.js · Angular.js
 
 #### Applications & Services
 
-Git · GitHub · Vim · Git · MySQL · PostgreSQL · LaTeX
+Git & GitHub · Vim · MySQL · PostgreSQL · MongoDB · LaTeX
 
 ### Notable Projects
 
