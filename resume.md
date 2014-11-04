@@ -84,10 +84,12 @@ Git & GitHub · Vim · MySQL · PostgreSQL · MongoDB · LaTeX
 
 ### Notable Projects
 
-- [Agora][agora] - An open source website for sharing code snippets.
+- [HN-Clojure][hn-clojure] - An implementation of Hacker News in Clojure, using their API.
+- [OJ][oj] - A Clojure library for talking to your database.
 - [Basic Wardrobe][basic] - A small website that lays out a minimalist wardrobe for men.
 - [Robo][robo] - A small emotional robot built with Arduino and Processing.
-- [Reactive Record][rr] - A small Coffeescript library that provides a simple and intuitive interface for asynchronous data.
+- [Reactive Record][rr] - A small Coffeescript library that provides an interface for asynchronous data.
+- [And more!][more]
 
 ### Memberships & Achievements
 
@@ -113,3 +115,6 @@ Git & GitHub · Vim · MySQL · PostgreSQL · MongoDB · LaTeX
 [basic]: http://basicwardrobe.info/
 [robo]: https://github.com/taylorlapeyre/robo
 [rr]: https://github.com/taylorlapeyre/reactive-record
+[hn-clojure]: https://github.com/taylorlapeyre/hn-clojure
+[oj]: https://github.com/taylorlapeyre/oj
+[more]: https://github.com/taylorlapeyre
