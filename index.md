@@ -7,7 +7,7 @@ I'm a web developer studying at Louisiana State University.
 
 I recently interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands.
 
-I was a also lead developer at Spare Hanger for almost two years. While there, I implemented and designed many features of the site.
+I was also a lead developer at Spare Hanger for almost two years. While there, I implemented and designed many features of the site.
 
 I've worked closely with the [Louisiana Biomedical Research Network][lbrn] at LSU for three years. During that time, I rebuilt and redesigned their website from scratch.
 
