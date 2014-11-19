@@ -7,16 +7,15 @@ title: About Me
 
 Reading walls of text on the internet is a pain, so I'll try to be concise.
 
-- I like programming in [Ruby][0], [Javascript][js], and [Clojure][clj].
-- I really like the web and making things for it.
-- I have an interest in iOS development. I hope to learn more of it soon.
-- I'm an advocate for open source software, and I try to [contribute][contributions] where I can.
+- I write programs in [Ruby][0], [Javascript][js], and [Clojure][clj].
+- I have a strong interest in iOS development. I hope to learn more of it soon.
+- I'm an advocate for open source software, and I try to contribute where I can.
 - I like typography, [clothing][1], and design of all kinds.
 - I love [music][3], and I play jazz guitar and banjo.
 
-Check out my [tools][5] and some of the [things I've made][6] with them. Looking for something more official? Here's my [résumé][resume].
+My [tools][5] are simple, and the [things I've made][6] with them are simple to use.
 
-I use a macbook, and my editor is [Atom][9]. You can find the source code for this website [here][7].
+Looking for something more official? Here's my [résumé][resume]. You can find the source code for this website [here][7].
 
 ![Profile](/assets/images/profile.jpeg)
 
