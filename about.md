@@ -7,7 +7,7 @@ title: About Me
 
 Reading walls of text on the internet is a pain, so I'll try to be concise.
 
-- I like programming in [Ruby][0], [Javascript][js], and Clojure.
+- I like programming in [Ruby][0], [Javascript][js], and [Clojure][clj].
 - I really like the web and making things for it.
 - I have an interest in iOS development. I hope to learn more of it soon.
 - I'm an advocate for open source software, and I try to [contribute][contributions] where I can.
@@ -33,3 +33,4 @@ I use a macbook, and my editor is [Atom][9]. You can find the source code for th
 [resume]: /resume
 [contributions]: http://taylorlapeyre.me/resume#open_source_contributions
 [js]: http://words.taylorlapeyre.me/an-introduction-to-react
+[clj]: https://github.com/taylorlapeyre/oj
