@@ -1,32 +1,30 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>Taylor Lapeyre</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/xtreem.css">
-    <link href="https://fonts.googleapis.com/css?family=RobotoDraft:400,500,700,400italic" rel="stylesheet">
+    <link href="/assets/css/lib/normalize.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
   </head>
   <body>
-    <header>
-      <h1><a href="/">Taylor Lapeyre</a></h1>
+    <header class="site-header">
+      <a href="/" alt="Taylor Lapeyre" class="name">Taylor Lapeyre</a>
+      <nav class="site-nav">
+        {% if page.title == "Projects" %}
+          <a href="/projects" alt="Projects" class="active">Projects</a>
+        {% else %}
+          <a href="/projects" alt="Projects">Projects</a>
+        {% endif %}
+
+        {% if page.title == "About" %}
+          <a href="/about" alt="About Me" class="active">About Me</a>
+        {% else %}
+          <a href="/about" alt="About Me">About Me</a>
+        {% endif %}
+      </nav>
     </header>
-
-    <div class="main">
-      {{ content }}
+    <div class="main-content">
+      {{content}}
     </div>
-
-    <script src="/assets/js/main.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-45552374-2', 'taylorlapeyre.me');
-      ga('send', 'pageview');
-
-    </script>
   </body>
 </html>
