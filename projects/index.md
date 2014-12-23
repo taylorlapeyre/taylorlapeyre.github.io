@@ -5,7 +5,7 @@ title: Projects
 
 ## Projects
 
-My personal projects are the result of years of tinkering and experimentation. Some are constantly changing, while others are stagnant or finished. Overall, these projects represent the code that I like to write.
+My personal projects are the result of years of tinkering and experimentation. Some are constantly changing, while others are on hold or finished. The following projects represent the code that I like to write.
 
 ### [OJ](https://github.com/taylorlapeyre/oj)
 
@@ -38,3 +38,11 @@ A basic implementation of Hacker News in Clojure.
 {: refdef}
 
 I made this website as a personal experiment to make something marginally useful with Clojure. It helped me learn the ins and outs of web development in the language, and can serve as a useful starting point for others.
+
+### […Among Many Others](https://github.com/taylorlapeyre)
+
+{:refdef: .subtitle}
+All of which can be found on my GitHub profile.
+{: refdef}
+
+These were just some of my favorite projects. Many others (including various experiments and websites) can be found on GitHub.
