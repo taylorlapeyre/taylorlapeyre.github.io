@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=RobotoDraft:400,500,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans:400,700);
 
 html {
-  font: 105%/1.5 "RobotoDraft", sans-serif;
+  font: 105%/1.5 "Fira Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #333;
   padding: 4rem;
@@ -13,11 +13,12 @@ body {
 }
 
 a {
-  color: #333;
+  color: #fc3a32;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #105B63;
+  color: #fc3a32;
 }
 
 h3 {
@@ -41,6 +42,7 @@ img {
   display: block;
   font-weight: 700;
   font-size: 2rem;
+  color: #333;
   text-decoration: none;
 }
 
@@ -57,7 +59,7 @@ img {
 }
 
 .site-header .site-nav a.active {
-  color: #105B63;
+  color: #FC3232;
 }
 
 .site-header .site-nav a + a {
