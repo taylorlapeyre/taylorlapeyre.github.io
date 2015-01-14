@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  color: #2B4596;
+  color: #0881b3;
   text-decoration: none;
 }
 
@@ -73,4 +73,9 @@ img {
 .subtitle {
   margin-top: 0;
   color: #777;
+}
+
+::selection {
+  background: #fffeca;
+  color: #333;
 }
