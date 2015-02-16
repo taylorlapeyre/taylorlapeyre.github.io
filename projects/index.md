@@ -3,8 +3,6 @@ layout: default
 title: Projects
 ---
 
-## Projects
-
 My personal projects are the result of years of tinkering and experimentation. Some are constantly changing, while others are on hold or finished. The following projects represent the code that I like to write.
 
 ### [OJ](https://github.com/taylorlapeyre/oj)
