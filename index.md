@@ -19,6 +19,6 @@ Still reading? A little more [about me][about].
 [everlane]: http://everlane.com
 [lbrn]: http://lbrn.lsu.edu
 [twitter]: http://twitter.com/taylorlapeyre
-[email]: mailto:hello@taylorlapeyre.me
+[email]: mailto:taylorlapeyre@gmail.com
 [about]: /about
 [projects]: /projects
