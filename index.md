@@ -4,7 +4,7 @@ layout: default
 
 I'm a programmer studying at Louisiana State University.
 
-I recently interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands.
+I recently interned at [Everlane][everlane] in San Francisco, where I was lucky enough to work for one of my favorite clothing brands. I can't wait to rejoin them when I graduate this summer.
 
 I was also a lead developer at a startup called Spare Hanger for almost two years. While there, I implemented and designed many features of the website.
 
