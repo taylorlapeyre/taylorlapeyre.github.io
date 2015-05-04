@@ -3,9 +3,7 @@ layout: default
 title: About
 ---
 
-![Profile](/assets/images/profile.jpeg)
-
-Reading walls of text on the internet is a pain, so I'll try to be concise.
+I'll try to be concise.
 
 - I write programs in [Ruby][ruby], [Javascript][js], and [Clojure][clj].
 - I have a strong interest in iOS development. I hope to learn more of it soon.
@@ -16,6 +14,8 @@ Reading walls of text on the internet is a pain, so I'll try to be concise.
 My [tools][files] are simple, and the [things I've made][projects] with them are simple to use.
 
 Looking for something more official? Here's my [résumé][resume]. You can find the source code for this website [here][source].
+
+![Profile](/assets/images/profile.jpeg)
 
 [ruby]: https://medium.com/the-way-of-ruby/15a9dfd2d5e7
 [bw]: https://github.com/taylorlapeyre/basic-wardrobe
