@@ -1,10 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700);
 
 html {
-  background: #334;
+  background: #fff;
   font: 100%/1.5 "Source Sans Pro", sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #FFF;
+  color: #333;
   padding: 4rem;
 }
 
@@ -14,13 +14,13 @@ body {
 }
 
 a {
-  color: #FFF;
+  color: #333;
   text-decoration: none;
-  background-image: linear-gradient(to bottom, rgba(255,255,255,0) 93%, #FA4 93%);
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0) 93%, #64B24D 93%);
 }
 
 a:hover {
-  color: #FA4;
+  color: #64B24D;
 }
 
 h3 {
@@ -47,13 +47,13 @@ img {
   display: block;
   font-weight: 200;
   font-size: 2.5rem;
-  color: #FFF;
+  color: #333;
   text-decoration: none;
   background-image: none;
 }
 
 .site-header .name:hover {
-  color: #FFF;
+  color: #333;
 }
 
 .site-header .site-nav a {
@@ -80,5 +80,5 @@ img {
 
 .subtitle {
   margin-top: 0;
-  color: #FA4;
+  color: #64B24D;
 }
