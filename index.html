@@ -13,47 +13,76 @@
         font-family: 'Graphik', sans-serif;
         font-size: 16px;
         line-height: 1.5em;
-        color: #808284;
+        color: #FFF;
+        margin: 30px;
+        background: #457;
       }
 
-      a, .link {
-        text-decoration: none;
-        color: #808284;
-        padding-bottom: 2px;
-        border-bottom: 2px solid #c6c8ca;
-      }
-
-      ul {
-        margin-top: 10%;
-        list-style: none;
-      }
-
-      li {
-        padding: 10px 100px;
-      }
-
-      aside {
-        float: right;
-        width: 400px;
-        margin: 0 100px 200px;
-        padding: 70px;
-        background-color: #333;
+      a {
         color: #fff;
-        box-shadow: 0px 0px 15px -3px #000;
+        text-decoration: none;
+        padding-right: 30px;
+      }
+
+      .intro {
+        display: flex;
+        justify-content: space-between;
+        min-height: 85vh;
+      }
+
+      .photo {
+        /*text-align: right;*/
+      }
+
+      .name {
+        width: 100%;
+      }
+
+      .name h2,
+      .currently h2,
+      .challenge h2 {
+        color: #fff;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 14px;
+      }
+
+      .name h1 {
+      }
+
+      .currently,
+      .challenge {
+        width: 50%;
+      }
+
+      .company {
+        color: #ddd;
+      }
+
+      .profile-photo {
+        width: 500px;
       }
     </style>
   </head>
   <body>
-    <aside>
-      My name is Taylor Lapeyre and I'm a programmer living and working in San Francisco.<br /><br />
-      I'm currently working as a Software Engineer at Everlane, where I'm building the platform behind the best clothing brand I know of.<br /><br />
-      I spend most of my time hiking, rock climbing, camping, skateboarding, writing code, playing guitar, and wondering what shade of tonal grey my sweater should be today.<br /><br />
-    </aside>
-    <ul>
-      <li><a href="https://github.com/taylorlapeyre">💻 Code I've written</a></li>
-      <li><a href="http://vsco.co/taylorlapeyre/images/1">📷 Photos I've taken</a></li>
-      <li><a href="https://everlane.com">👕 Clothes I sell</a></li>
-      <li><span class="link">📫 taylorlapeyre@gmail.com</span></li>
-    </ul>
+    <div class="intro">
+      <section class="name">
+        <h2>Name</h2>
+        <h1>Taylor Lapeyre</h1>
+      </section>
+      <section class="currently">
+        <h2>Currently</h2>
+        <p class="subtext">Engineer, <a href="//everlane.com" class="company">Everlane</a></p>
+      </section>
+      <section class="challenge">
+        <h2>Challenge</h2>
+        <p class="subtext">Create the technology behind one of the most forward-thinking clothing brands in the world.</p>
+      </section>
+    </div>
+    <div class="links">
+      <a href="//twitter.com/taylorlapeyre">Twitter</a>
+      <a href="//github.com/taylorlapeyre">GitHub</a>
+      <a href="mailto:taylorlapeyre@gmail.com">Email</a>
+    </div>
   </body>
 </html>
