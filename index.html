@@ -13,9 +13,9 @@
         font-family: 'Graphik', sans-serif;
         font-size: 16px;
         line-height: 1.5em;
-        color: #FFF;
-        margin: 30px;
-        background: #457;
+        color: #333;
+        margin: 0;
+        /*background: #5d625e;*/
       }
 
       a {
@@ -24,14 +24,23 @@
         padding-right: 30px;
       }
 
-      .intro {
+      .container {
         display: flex;
-        justify-content: space-between;
-        min-height: 85vh;
       }
 
-      .photo {
-        /*text-align: right;*/
+      .intro {
+        margin: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+      }
+
+      .image {
+        text-align: center;
+      }
+
+      .profile-photo {
+        height: 100vh;
       }
 
       .name {
@@ -41,7 +50,6 @@
       .name h2,
       .currently h2,
       .challenge h2 {
-        color: #fff;
         text-transform: uppercase;
         letter-spacing: 2px;
         font-size: 14px;
@@ -56,33 +64,30 @@
       }
 
       .company {
-        color: #ddd;
+        color: #999;
       }
 
-      .profile-photo {
-        width: 500px;
-      }
     </style>
   </head>
   <body>
-    <div class="intro">
-      <section class="name">
-        <h2>Name</h2>
-        <h1>Taylor Lapeyre</h1>
-      </section>
-      <section class="currently">
-        <h2>Currently</h2>
-        <p class="subtext">Engineer, <a href="//everlane.com" class="company">Everlane</a></p>
-      </section>
-      <section class="challenge">
-        <h2>Challenge</h2>
-        <p class="subtext">Create the technology behind one of the most forward-thinking clothing brands in the world.</p>
-      </section>
-    </div>
-    <div class="links">
-      <a href="//twitter.com/taylorlapeyre">Twitter</a>
-      <a href="//github.com/taylorlapeyre">GitHub</a>
-      <a href="mailto:taylorlapeyre@gmail.com">Email</a>
+    <div class="container">
+      <div class="image">
+        <img class="profile-photo" src="profile.jpg" />
+      </div>
+      <div class="intro">
+        <section class="name">
+          <h2>Name</h2>
+          <h1>Taylor Lapeyre</h1>
+        </section>
+        <section class="currently">
+          <h2>Currently</h2>
+          <p class="subtext">Engineer, <a href="//everlane.com" class="company">Everlane</a></p>
+        </section>
+        <section class="challenge">
+          <h2>Challenge</h2>
+          <p class="subtext">Create the technology behind one of the most forward-thinking clothing brands in the world.</p>
+        </section>
+      </div>
     </div>
   </body>
 </html>
