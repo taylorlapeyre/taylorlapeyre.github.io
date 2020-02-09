@@ -13,7 +13,8 @@
 
       .container {
         display: grid;
-        grid-template-columns: 1fr 3fr;
+        grid-template-columns: 1fr 1fr;
+        height: 100vh;
       }
 
       .intro {
@@ -28,7 +29,10 @@
       }
 
       .profile-photo {
-        height: 100vh;
+        background-image: url("profile.jpg");
+        background-size: cover;
+        width: 100%;
+        height: 100%;
       }
 
       .paragraph {
@@ -43,7 +47,7 @@
   </head>
   <body>
     <div class="container">
-      <img class="profile-photo" src="profile.jpg" />
+      <div class="profile-photo"></div>
       <div class="intro">
         <h1 class="intro-title">👋, my name is Taylor Lapeyre</h1>
         <p class="paragraph">
