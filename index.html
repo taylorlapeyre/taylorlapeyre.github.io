@@ -1,26 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Taylor Lapeyre</title>
-    <link href="https://fonts.googleapis.com/css?family=Gothic+A1:400,600" rel="stylesheet">
+    <link href="./inter/inter.css" rel="stylesheet" />
     <style>
       body {
-        font-family: 'Gothic A1', sans-serif;
-        font-size: 16px;
-        line-height: 1.5em;
+        font-family: "Inter", sans-serif;
         color: #333;
         margin: 0;
-        /*background: #5d625e;*/
-      }
-
-      a {
-        color: #fff;
-        text-decoration: none;
       }
 
       .container {
-        display: flex;
+        display: grid;
+        grid-template-columns: 1fr 3fr;
       }
 
       .intro {
@@ -30,59 +23,43 @@
         justify-content: center;
       }
 
-      .image {
-        text-align: center;
+      .intro-title {
+        font-weight: 400;
       }
 
       .profile-photo {
         height: 100vh;
       }
 
-      .name {
-        width: 100%;
+      .paragraph {
+        max-width: 36rem;
+        line-height: 1.6;
       }
 
-      .name h2,
-      .currently h2,
-      .challenge h2 {
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        font-size: 14px;
-      }
-
-      .name h1 {
-        font-weight: 600;
-      }
-
-      .currently,
-      .challenge {
-        width: 80%;
-      }
-
-      .company {
-        color: #999;
+      .link {
+        color: rgb(45, 118, 220);
       }
     </style>
   </head>
   <body>
     <div class="container">
-      <div class="image">
-        <img class="profile-photo" src="profile.jpg" />
-      </div>
+      <img class="profile-photo" src="profile.jpg" />
       <div class="intro">
-        <section class="name">
-          <h1>👋, I’m Taylor Lapeyre</h1>
-        </section>
-        <section class="currently">
-          <p class="subtext">
-            By work day, I’m a San Francisco-based engineer for <a href="//goabstract.com" class="company">Abstract</a>, where I help designers work together.
-          </p>
-        </section>
-        <section class="challenge">
-          <p class="subtext">
-            Otherwise, I’m outside. Feel free to <a class="company" href="mailto:taylorlapeyre@gmail.com">email</a> me though!
-          </p>
-        </section>
+        <h1 class="intro-title">👋, my name is Taylor Lapeyre</h1>
+        <p class="paragraph">
+          I’m an engineer at
+          <a href="https://www.abstract.com" class="link">Abstract</a>, where I
+          help designers work together.
+        </p>
+        <p class="paragraph">
+          Sometimes I take
+          <a href="https://vsco.co/taylorlapeyre" class="link">pictures</a>.
+          Sometimes I make
+          <a href="https://github.com/taylorlapeyre" class="link">write code</a
+          >. <br />Mostly, I’m outside. Feel free to
+          <a class="link" href="mailto:taylorlapeyre@gmail.com">email</a>
+          me though.
+        </p>
       </div>
     </div>
   </body>
