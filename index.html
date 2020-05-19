@@ -5,9 +5,19 @@
     <title>Taylor Lapeyre</title>
     <link href="./inter/inter.css" rel="stylesheet" />
     <style>
+      @font-face {
+        font-family: "Standard";
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url("fonts/standard-book-webfont.woff2") format("woff2"),
+          url("fonts/standard-book-webfont.woff") format("woff");
+      }
+
       body {
-        font-family: "Inter", sans-serif;
+        font-family: "Standard", sans-serif;
         color: #333;
+        font-size: 20px;
         margin: 0;
       }
 
@@ -37,11 +47,13 @@
 
       .paragraph {
         max-width: 36rem;
-        line-height: 1.6;
+        line-height: 1.8;
       }
 
       .link {
         color: rgb(45, 118, 220);
+        text-decoration: none;
+        border-bottom: 1px solid rgb(45, 118, 220);
       }
     </style>
   </head>
@@ -49,10 +61,10 @@
     <div class="container">
       <div class="profile-photo"></div>
       <div class="intro">
-        <h1 class="intro-title">👋, my name is Taylor Lapeyre</h1>
+        <!-- <h1 class="intro-title">Taylor Lapeyre</h1> -->
         <p class="paragraph">
-          I’m an engineer at
-          <a href="https://projectwren.com" class="link">Project Wren</a>, where I am trying to make a difference in the climate crisis.
+          Hi, I’m Taylor. I’m an engineer at
+          <a href="https://projectwren.com" class="link">Project Wren</a>, where I’m trying to make a difference in the climate crisis.
         </p>
         <p class="paragraph">
           Sometimes I take
