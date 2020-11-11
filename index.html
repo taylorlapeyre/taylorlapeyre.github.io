@@ -1,129 +1,133 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Taylor Lapeyre</title>
-    <link href="./inter/inter.css" rel="stylesheet" />
-    <style>
-      @font-face {
-        font-family: "Standard";
-        font-style: normal;
-        font-weight: 400;
-        font-display: swap;
-        src: url("fonts/standard-book-webfont.woff2") format("woff2"),
-          url("fonts/standard-book-webfont.woff") format("woff");
-      }
 
-      body {
-        font-family: "Standard", sans-serif;
-        color: #333;
-        font-size: 20px;
-        margin: 0;
-      }
+<head>
+  <meta charset="utf-8" />
+  <title>Taylor Lapeyre</title>
+  <link href="./inter/inter.css" rel="stylesheet" />
+  <style>
+    @font-face {
+      font-family: "Standard";
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url("fonts/standard-book-webfont.woff2") format("woff2"),
+        url("fonts/standard-book-webfont.woff") format("woff");
+    }
 
+    body {
+      font-family: "Standard", sans-serif;
+      color: #333;
+      font-size: 20px;
+      margin: 0;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      height: 100vh;
+    }
+
+    .profile-photo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .sprite {
+      width: 500px;
+      /* height: 500px; */
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .intro {
+      margin: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .intro-title {
+      font-weight: 400;
+    }
+
+    .paragraph {
+      max-width: 36rem;
+      line-height: 1.8;
+    }
+
+    .link {
+      color: rgb(45, 118, 220);
+      text-decoration: none;
+      border-bottom: 1px solid rgb(45, 118, 220);
+    }
+
+    .attribution {
+      position: absolute;
+      bottom: 5px;
+      right: 10px;
+    }
+
+    .attribution,
+    .attribution a {
+      font-size: 10px;
+      color: #9E9E9E;
+      text-decoration: none;
+    }
+
+    .badge {
+      width: 300px;
+      height: 128px;
+      border: 0;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+
+    @media (max-width: 800px) {
       .container {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         height: 100vh;
       }
 
-      .profile-photo {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
-      .sprite {
-        width: 500px;
-        height: 500px;
-      }
-
-      .intro {
-        margin: 30px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-      }
-
-      .intro-title {
-        font-weight: 400;
-      }
-
-      .paragraph {
-        max-width: 36rem;
-        line-height: 1.8;
-      }
-
-      .link {
-        color: rgb(45, 118, 220);
-        text-decoration: none;
-        border-bottom: 1px solid rgb(45, 118, 220);
-      }
-
       .attribution {
-        position: absolute;
-        bottom: 5px;
-        right: 10px;
-      }
-
-      .attribution,
-      .attribution a {
-        font-size: 10px;
-        color: #9E9E9E;
-        text-decoration: none;
+        display: none;
       }
 
       .badge {
-        width: 300px;
-        height: 128px;
-        border: 0;
-        position: absolute;
-        bottom: 0;
-        right: 0;
+        position: static;
       }
+    }
+  </style>
+</head>
 
-      @media (max-width: 800px) {
-        .container {
-          display: grid;
-          grid-template-columns: 1fr;
-          height: 100vh;
-        }
-
-        .attribution {
-          display: none;
-        }
-
-        .badge {
-          position: static;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-      <div class="profile-photo">
-        <img src="sprite.jpg" class="sprite" />
-      </div>
-      <div class="intro">
-        <p class="paragraph">
-          Hi, I’m Taylor. I’m an engineer at
-          <a href="https://projectwren.com" class="link">Wren</a>, where I’m focused on solutions to the climate crisis.
-        </p>
-        <p class="paragraph">
-          I live in San Francisco, where I am lucky enough to be surrounded by incredible ecosystems, geology, weather, and history. I love learning about all of the different aspects of my wonderful home.
-        </p>
-        <p class="paragraph">
-          Sometimes I take
-          <a href="https://vsco.co/taylorlapeyre" class="link">pictures</a>
-          , <a href="https://ebird.org/profile/MTM4MzU4NQ" class="link">watch birds</a>, or <a href="https://www.mountainproject.com/user/112176292/taylor-lapeyre" class="link">climb</a>.
-          <br /> For work, I
-          <a href="https://github.com/taylorlapeyre" class="link">write code</a
-          >.<br />Mostly, I’m outside. Feel free to
-          <a class="link" id="email" href="mailto:taylorlapeyre@hey.com">email</a>
-          me though.
-        </p>
-        <iframe src="https://projectwren.com/badge/logo/taylorlapeyre?style=light" class="badge" />
-      </div>
+<body>
+  <div class="container">
+    <div class="profile-photo">
+      <img src="photo.jpeg" class="sprite" />
     </div>
-  </body>
+    <div class="intro">
+      <p class="paragraph">
+        Hi, I’m Taylor. I’m an engineer at
+        <a href="https://projectwren.com" class="link">Wren</a>, where I’m focused on solutions to the climate crisis.
+      </p>
+      <p class="paragraph">
+        I live in San Francisco, where I am lucky enough to be surrounded by incredible ecosystems, geology, weather,
+        and history. I love learning about all of the different aspects of my wonderful home.
+      </p>
+      <p class="paragraph">
+        Sometimes I take
+        <a href="https://vsco.co/taylorlapeyre" class="link">pictures</a>
+        , <a href="https://ebird.org/profile/MTM4MzU4NQ" class="link">watch birds</a>, or <a
+          href="https://www.mountainproject.com/user/112176292/taylor-lapeyre" class="link">climb</a>.
+        <br /> For work, I
+        <a href="https://github.com/taylorlapeyre" class="link">write code</a>.<br />Mostly, I’m outside. Feel free to
+        <a class="link" id="email" href="mailto:taylorlapeyre@hey.com">email</a>
+        me though.
+      </p>
+    </div>
+  </div>
+</body>
+
 </html>
