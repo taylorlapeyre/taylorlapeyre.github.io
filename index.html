@@ -119,29 +119,23 @@
         margin-bottom: 8px;
       }
 
-      @media (max-width: 576px) {
+      @media screen and (max-width: 992px) {
+        body {
+          font-size: 40px;
+        }
+
         .container {
-          display: grid;
           grid-template-columns: 1fr;
-          height: 100vh;
         }
 
-        .attribution {
-          display: none;
+        .paragraph {
+          max-width: 90%;
         }
 
-        .badge {
-          position: static;
-        }
-
-        .sprite {
-          width: 90%;
-        }
-      }
-
-      @media (max-width: 992px) {
-        .container {
-          height: 100vh;
+        .intro {
+          margin: 0;
+          margin-left: 52px;
+          margin-top: 30px;
         }
 
         .attribution {
